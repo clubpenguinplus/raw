@@ -1969,6 +1969,23 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">pet/parkdoor-arch.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>49,70,99,140</rect>
+                <key>scale9Paddings</key>
+                <rect>49,70,99,140</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">pet/parkdoor-bottom-hover.png</key>
+            <key type="filename">pet/parkdoor-bottom.png</key>
             <key type="filename">pet/parkdoor_de-hover.png</key>
             <key type="filename">pet/parkdoor_de.png</key>
             <key type="filename">pet/parkdoor_en-hover.png</key>
