@@ -349,7 +349,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">main/buddy-online-large.png</key>
             <key type="filename">main/buddy-online.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -623,6 +622,51 @@
                 <rect>190,12,380,23</rect>
                 <key>scale9Paddings</key>
                 <rect>190,12,380,23</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">main/coin_0001.png</key>
+            <key type="filename">main/coin_0002.png</key>
+            <key type="filename">main/coin_0003.png</key>
+            <key type="filename">main/coin_0004.png</key>
+            <key type="filename">main/coin_0005.png</key>
+            <key type="filename">main/coin_0006.png</key>
+            <key type="filename">main/coin_0007.png</key>
+            <key type="filename">main/coin_0008.png</key>
+            <key type="filename">main/coin_0009.png</key>
+            <key type="filename">main/coin_0010.png</key>
+            <key type="filename">main/coin_0011.png</key>
+            <key type="filename">main/coin_0012.png</key>
+            <key type="filename">main/coin_0013.png</key>
+            <key type="filename">main/coin_0014.png</key>
+            <key type="filename">main/coin_0015.png</key>
+            <key type="filename">main/coin_0016.png</key>
+            <key type="filename">main/coin_0017.png</key>
+            <key type="filename">main/coin_0018.png</key>
+            <key type="filename">main/coin_0019.png</key>
+            <key type="filename">main/coin_0020.png</key>
+            <key type="filename">main/coin_0021.png</key>
+            <key type="filename">main/coin_0022.png</key>
+            <key type="filename">main/coin_0023.png</key>
+            <key type="filename">main/coin_0024.png</key>
+            <key type="filename">main/coin_0025.png</key>
+            <key type="filename">main/coin_0026.png</key>
+            <key type="filename">main/coin_0027.png</key>
+            <key type="filename">main/coin_0028.png</key>
+            <key type="filename">main/coin_0029.png</key>
+            <key type="filename">main/coin_0030.png</key>
+            <key type="filename">main/coin_0031.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>15,26,29,51</rect>
+                <key>scale9Paddings</key>
+                <rect>15,26,29,51</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
