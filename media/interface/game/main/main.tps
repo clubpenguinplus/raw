@@ -304,9 +304,10 @@
             <key type="filename">main/buddies-icon.png</key>
             <key type="filename">main/buddies-remove-icon.png</key>
             <key type="filename">main/emote-icon.png</key>
+            <key type="filename">main/find-icon-disabled.png</key>
+            <key type="filename">main/find-icon.png</key>
             <key type="filename">main/grey-arrow.png</key>
             <key type="filename">main/grey-x.png</key>
-            <key type="filename">main/help-icon-disabled.png</key>
             <key type="filename">main/help-icon.png</key>
             <key type="filename">main/ignore-icon-disabled.png</key>
             <key type="filename">main/ignore-icon.png</key>

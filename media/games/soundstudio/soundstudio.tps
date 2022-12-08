@@ -647,15 +647,6 @@
             <key type="filename">soundstudio/waveforms/eighteen0046.png</key>
             <key type="filename">soundstudio/waveforms/eighteen0047.png</key>
             <key type="filename">soundstudio/waveforms/eighteen0048.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0049.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0050.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0051.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0052.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0053.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0054.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0055.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0056.png</key>
-            <key type="filename">soundstudio/waveforms/eighteen0057.png</key>
             <key type="filename">soundstudio/waveforms/eleven0001.png</key>
             <key type="filename">soundstudio/waveforms/eleven0002.png</key>
             <key type="filename">soundstudio/waveforms/eleven0003.png</key>
@@ -704,24 +695,6 @@
             <key type="filename">soundstudio/waveforms/eleven0046.png</key>
             <key type="filename">soundstudio/waveforms/eleven0047.png</key>
             <key type="filename">soundstudio/waveforms/eleven0048.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0049.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0050.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0051.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0052.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0053.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0054.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0055.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0056.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0057.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0058.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0059.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0060.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0061.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0062.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0063.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0064.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0065.png</key>
-            <key type="filename">soundstudio/waveforms/eleven0066.png</key>
             <key type="filename">soundstudio/waveforms/fifteen0001.png</key>
             <key type="filename">soundstudio/waveforms/fifteen0002.png</key>
             <key type="filename">soundstudio/waveforms/fifteen0003.png</key>
@@ -770,15 +743,6 @@
             <key type="filename">soundstudio/waveforms/fifteen0046.png</key>
             <key type="filename">soundstudio/waveforms/fifteen0047.png</key>
             <key type="filename">soundstudio/waveforms/fifteen0048.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0049.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0050.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0051.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0052.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0053.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0054.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0055.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0056.png</key>
-            <key type="filename">soundstudio/waveforms/fifteen0057.png</key>
             <key type="filename">soundstudio/waveforms/five0001.png</key>
             <key type="filename">soundstudio/waveforms/five0002.png</key>
             <key type="filename">soundstudio/waveforms/five0003.png</key>
@@ -838,7 +802,6 @@
             <key type="filename">soundstudio/waveforms/five0057.png</key>
             <key type="filename">soundstudio/waveforms/forty0001.png</key>
             <key type="filename">soundstudio/waveforms/forty0002.png</key>
-            <key type="filename">soundstudio/waveforms/forty0003.png</key>
             <key type="filename">soundstudio/waveforms/forty0004.png</key>
             <key type="filename">soundstudio/waveforms/forty0005.png</key>
             <key type="filename">soundstudio/waveforms/forty0006.png</key>
@@ -950,36 +913,6 @@
             <key type="filename">soundstudio/waveforms/four0046.png</key>
             <key type="filename">soundstudio/waveforms/four0047.png</key>
             <key type="filename">soundstudio/waveforms/four0048.png</key>
-            <key type="filename">soundstudio/waveforms/four0049.png</key>
-            <key type="filename">soundstudio/waveforms/four0050.png</key>
-            <key type="filename">soundstudio/waveforms/four0051.png</key>
-            <key type="filename">soundstudio/waveforms/four0052.png</key>
-            <key type="filename">soundstudio/waveforms/four0053.png</key>
-            <key type="filename">soundstudio/waveforms/four0054.png</key>
-            <key type="filename">soundstudio/waveforms/four0055.png</key>
-            <key type="filename">soundstudio/waveforms/four0056.png</key>
-            <key type="filename">soundstudio/waveforms/four0057.png</key>
-            <key type="filename">soundstudio/waveforms/four0058.png</key>
-            <key type="filename">soundstudio/waveforms/four0059.png</key>
-            <key type="filename">soundstudio/waveforms/four0060.png</key>
-            <key type="filename">soundstudio/waveforms/four0061.png</key>
-            <key type="filename">soundstudio/waveforms/four0062.png</key>
-            <key type="filename">soundstudio/waveforms/four0063.png</key>
-            <key type="filename">soundstudio/waveforms/four0064.png</key>
-            <key type="filename">soundstudio/waveforms/four0065.png</key>
-            <key type="filename">soundstudio/waveforms/four0066.png</key>
-            <key type="filename">soundstudio/waveforms/four0067.png</key>
-            <key type="filename">soundstudio/waveforms/four0068.png</key>
-            <key type="filename">soundstudio/waveforms/four0069.png</key>
-            <key type="filename">soundstudio/waveforms/four0070.png</key>
-            <key type="filename">soundstudio/waveforms/four0071.png</key>
-            <key type="filename">soundstudio/waveforms/four0072.png</key>
-            <key type="filename">soundstudio/waveforms/four0073.png</key>
-            <key type="filename">soundstudio/waveforms/four0074.png</key>
-            <key type="filename">soundstudio/waveforms/four0075.png</key>
-            <key type="filename">soundstudio/waveforms/four0076.png</key>
-            <key type="filename">soundstudio/waveforms/four0077.png</key>
-            <key type="filename">soundstudio/waveforms/four0078.png</key>
             <key type="filename">soundstudio/waveforms/fourteen0001.png</key>
             <key type="filename">soundstudio/waveforms/fourteen0002.png</key>
             <key type="filename">soundstudio/waveforms/fourteen0003.png</key>
@@ -1094,18 +1027,6 @@
             <key type="filename">soundstudio/waveforms/nine0064.png</key>
             <key type="filename">soundstudio/waveforms/nine0065.png</key>
             <key type="filename">soundstudio/waveforms/nine0066.png</key>
-            <key type="filename">soundstudio/waveforms/nine0067.png</key>
-            <key type="filename">soundstudio/waveforms/nine0068.png</key>
-            <key type="filename">soundstudio/waveforms/nine0069.png</key>
-            <key type="filename">soundstudio/waveforms/nine0070.png</key>
-            <key type="filename">soundstudio/waveforms/nine0071.png</key>
-            <key type="filename">soundstudio/waveforms/nine0072.png</key>
-            <key type="filename">soundstudio/waveforms/nine0073.png</key>
-            <key type="filename">soundstudio/waveforms/nine0074.png</key>
-            <key type="filename">soundstudio/waveforms/nine0075.png</key>
-            <key type="filename">soundstudio/waveforms/nine0076.png</key>
-            <key type="filename">soundstudio/waveforms/nine0077.png</key>
-            <key type="filename">soundstudio/waveforms/nine0078.png</key>
             <key type="filename">soundstudio/waveforms/nineteen0001.png</key>
             <key type="filename">soundstudio/waveforms/nineteen0002.png</key>
             <key type="filename">soundstudio/waveforms/nineteen0003.png</key>
@@ -1268,36 +1189,6 @@
             <key type="filename">soundstudio/waveforms/seven0046.png</key>
             <key type="filename">soundstudio/waveforms/seven0047.png</key>
             <key type="filename">soundstudio/waveforms/seven0048.png</key>
-            <key type="filename">soundstudio/waveforms/seven0049.png</key>
-            <key type="filename">soundstudio/waveforms/seven0050.png</key>
-            <key type="filename">soundstudio/waveforms/seven0051.png</key>
-            <key type="filename">soundstudio/waveforms/seven0052.png</key>
-            <key type="filename">soundstudio/waveforms/seven0053.png</key>
-            <key type="filename">soundstudio/waveforms/seven0054.png</key>
-            <key type="filename">soundstudio/waveforms/seven0055.png</key>
-            <key type="filename">soundstudio/waveforms/seven0056.png</key>
-            <key type="filename">soundstudio/waveforms/seven0057.png</key>
-            <key type="filename">soundstudio/waveforms/seven0058.png</key>
-            <key type="filename">soundstudio/waveforms/seven0059.png</key>
-            <key type="filename">soundstudio/waveforms/seven0060.png</key>
-            <key type="filename">soundstudio/waveforms/seven0061.png</key>
-            <key type="filename">soundstudio/waveforms/seven0062.png</key>
-            <key type="filename">soundstudio/waveforms/seven0063.png</key>
-            <key type="filename">soundstudio/waveforms/seven0064.png</key>
-            <key type="filename">soundstudio/waveforms/seven0065.png</key>
-            <key type="filename">soundstudio/waveforms/seven0066.png</key>
-            <key type="filename">soundstudio/waveforms/seven0067.png</key>
-            <key type="filename">soundstudio/waveforms/seven0068.png</key>
-            <key type="filename">soundstudio/waveforms/seven0069.png</key>
-            <key type="filename">soundstudio/waveforms/seven0070.png</key>
-            <key type="filename">soundstudio/waveforms/seven0071.png</key>
-            <key type="filename">soundstudio/waveforms/seven0072.png</key>
-            <key type="filename">soundstudio/waveforms/seven0073.png</key>
-            <key type="filename">soundstudio/waveforms/seven0074.png</key>
-            <key type="filename">soundstudio/waveforms/seven0075.png</key>
-            <key type="filename">soundstudio/waveforms/seven0076.png</key>
-            <key type="filename">soundstudio/waveforms/seven0077.png</key>
-            <key type="filename">soundstudio/waveforms/seven0078.png</key>
             <key type="filename">soundstudio/waveforms/seventeen0001.png</key>
             <key type="filename">soundstudio/waveforms/seventeen0002.png</key>
             <key type="filename">soundstudio/waveforms/seventeen0003.png</key>
@@ -1547,36 +1438,6 @@
             <key type="filename">soundstudio/waveforms/thirteen0046.png</key>
             <key type="filename">soundstudio/waveforms/thirteen0047.png</key>
             <key type="filename">soundstudio/waveforms/thirteen0048.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0049.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0050.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0051.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0052.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0053.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0054.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0055.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0056.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0057.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0058.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0059.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0060.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0061.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0062.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0063.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0064.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0065.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0066.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0067.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0068.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0069.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0070.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0071.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0072.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0073.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0074.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0075.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0076.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0077.png</key>
-            <key type="filename">soundstudio/waveforms/thirteen0078.png</key>
             <key type="filename">soundstudio/waveforms/thirty0001.png</key>
             <key type="filename">soundstudio/waveforms/thirty0002.png</key>
             <key type="filename">soundstudio/waveforms/thirty0003.png</key>
@@ -2929,6 +2790,202 @@
                 <rect>7,19,15,37</rect>
                 <key>scale9Paddings</key>
                 <rect>7,19,15,37</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/waveforms/eight0067.png</key>
+            <key type="filename">soundstudio/waveforms/eight0068.png</key>
+            <key type="filename">soundstudio/waveforms/eight0069.png</key>
+            <key type="filename">soundstudio/waveforms/eight0070.png</key>
+            <key type="filename">soundstudio/waveforms/eight0071.png</key>
+            <key type="filename">soundstudio/waveforms/eight0072.png</key>
+            <key type="filename">soundstudio/waveforms/eight0073.png</key>
+            <key type="filename">soundstudio/waveforms/eight0074.png</key>
+            <key type="filename">soundstudio/waveforms/eight0075.png</key>
+            <key type="filename">soundstudio/waveforms/eight0076.png</key>
+            <key type="filename">soundstudio/waveforms/eight0077.png</key>
+            <key type="filename">soundstudio/waveforms/eight0078.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0049.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0050.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0051.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0052.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0053.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0054.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0055.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0056.png</key>
+            <key type="filename">soundstudio/waveforms/nineteen0057.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0049.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0050.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0051.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0052.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0053.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0054.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0055.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0056.png</key>
+            <key type="filename">soundstudio/waveforms/seventeen0057.png</key>
+            <key type="filename">soundstudio/waveforms/six0049.png</key>
+            <key type="filename">soundstudio/waveforms/six0050.png</key>
+            <key type="filename">soundstudio/waveforms/six0051.png</key>
+            <key type="filename">soundstudio/waveforms/six0052.png</key>
+            <key type="filename">soundstudio/waveforms/six0053.png</key>
+            <key type="filename">soundstudio/waveforms/six0054.png</key>
+            <key type="filename">soundstudio/waveforms/six0055.png</key>
+            <key type="filename">soundstudio/waveforms/six0056.png</key>
+            <key type="filename">soundstudio/waveforms/six0057.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>17,28,33,55</rect>
+                <key>scale9Paddings</key>
+                <rect>17,28,33,55</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/waveforms/five0058.png</key>
+            <key type="filename">soundstudio/waveforms/five0059.png</key>
+            <key type="filename">soundstudio/waveforms/five0060.png</key>
+            <key type="filename">soundstudio/waveforms/five0061.png</key>
+            <key type="filename">soundstudio/waveforms/five0062.png</key>
+            <key type="filename">soundstudio/waveforms/five0063.png</key>
+            <key type="filename">soundstudio/waveforms/five0064.png</key>
+            <key type="filename">soundstudio/waveforms/five0065.png</key>
+            <key type="filename">soundstudio/waveforms/five0066.png</key>
+            <key type="filename">soundstudio/waveforms/five0067.png</key>
+            <key type="filename">soundstudio/waveforms/five0068.png</key>
+            <key type="filename">soundstudio/waveforms/five0069.png</key>
+            <key type="filename">soundstudio/waveforms/five0070.png</key>
+            <key type="filename">soundstudio/waveforms/five0071.png</key>
+            <key type="filename">soundstudio/waveforms/five0072.png</key>
+            <key type="filename">soundstudio/waveforms/five0073.png</key>
+            <key type="filename">soundstudio/waveforms/five0074.png</key>
+            <key type="filename">soundstudio/waveforms/five0075.png</key>
+            <key type="filename">soundstudio/waveforms/five0076.png</key>
+            <key type="filename">soundstudio/waveforms/five0077.png</key>
+            <key type="filename">soundstudio/waveforms/five0078.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0049.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0050.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0051.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0052.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0053.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0054.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0055.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0056.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0057.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0058.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0059.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0060.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0061.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0062.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0063.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0064.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0065.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0066.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0067.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0068.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0069.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0070.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0071.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0072.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0073.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0074.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0075.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0076.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0077.png</key>
+            <key type="filename">soundstudio/waveforms/fourteen0078.png</key>
+            <key type="filename">soundstudio/waveforms/one0067.png</key>
+            <key type="filename">soundstudio/waveforms/one0068.png</key>
+            <key type="filename">soundstudio/waveforms/one0069.png</key>
+            <key type="filename">soundstudio/waveforms/one0070.png</key>
+            <key type="filename">soundstudio/waveforms/one0071.png</key>
+            <key type="filename">soundstudio/waveforms/one0072.png</key>
+            <key type="filename">soundstudio/waveforms/one0073.png</key>
+            <key type="filename">soundstudio/waveforms/one0074.png</key>
+            <key type="filename">soundstudio/waveforms/one0075.png</key>
+            <key type="filename">soundstudio/waveforms/one0076.png</key>
+            <key type="filename">soundstudio/waveforms/one0077.png</key>
+            <key type="filename">soundstudio/waveforms/one0078.png</key>
+            <key type="filename">soundstudio/waveforms/ten0049.png</key>
+            <key type="filename">soundstudio/waveforms/ten0050.png</key>
+            <key type="filename">soundstudio/waveforms/ten0051.png</key>
+            <key type="filename">soundstudio/waveforms/ten0052.png</key>
+            <key type="filename">soundstudio/waveforms/ten0053.png</key>
+            <key type="filename">soundstudio/waveforms/ten0054.png</key>
+            <key type="filename">soundstudio/waveforms/ten0055.png</key>
+            <key type="filename">soundstudio/waveforms/ten0056.png</key>
+            <key type="filename">soundstudio/waveforms/ten0057.png</key>
+            <key type="filename">soundstudio/waveforms/ten0058.png</key>
+            <key type="filename">soundstudio/waveforms/ten0059.png</key>
+            <key type="filename">soundstudio/waveforms/ten0060.png</key>
+            <key type="filename">soundstudio/waveforms/ten0061.png</key>
+            <key type="filename">soundstudio/waveforms/ten0062.png</key>
+            <key type="filename">soundstudio/waveforms/ten0063.png</key>
+            <key type="filename">soundstudio/waveforms/ten0064.png</key>
+            <key type="filename">soundstudio/waveforms/ten0065.png</key>
+            <key type="filename">soundstudio/waveforms/ten0066.png</key>
+            <key type="filename">soundstudio/waveforms/ten0067.png</key>
+            <key type="filename">soundstudio/waveforms/ten0068.png</key>
+            <key type="filename">soundstudio/waveforms/ten0069.png</key>
+            <key type="filename">soundstudio/waveforms/ten0070.png</key>
+            <key type="filename">soundstudio/waveforms/ten0071.png</key>
+            <key type="filename">soundstudio/waveforms/ten0072.png</key>
+            <key type="filename">soundstudio/waveforms/ten0073.png</key>
+            <key type="filename">soundstudio/waveforms/ten0074.png</key>
+            <key type="filename">soundstudio/waveforms/ten0075.png</key>
+            <key type="filename">soundstudio/waveforms/ten0076.png</key>
+            <key type="filename">soundstudio/waveforms/ten0077.png</key>
+            <key type="filename">soundstudio/waveforms/ten0078.png</key>
+            <key type="filename">soundstudio/waveforms/three0049.png</key>
+            <key type="filename">soundstudio/waveforms/three0050.png</key>
+            <key type="filename">soundstudio/waveforms/three0051.png</key>
+            <key type="filename">soundstudio/waveforms/three0052.png</key>
+            <key type="filename">soundstudio/waveforms/three0053.png</key>
+            <key type="filename">soundstudio/waveforms/three0054.png</key>
+            <key type="filename">soundstudio/waveforms/three0055.png</key>
+            <key type="filename">soundstudio/waveforms/three0056.png</key>
+            <key type="filename">soundstudio/waveforms/three0057.png</key>
+            <key type="filename">soundstudio/waveforms/three0058.png</key>
+            <key type="filename">soundstudio/waveforms/three0059.png</key>
+            <key type="filename">soundstudio/waveforms/three0060.png</key>
+            <key type="filename">soundstudio/waveforms/three0061.png</key>
+            <key type="filename">soundstudio/waveforms/three0062.png</key>
+            <key type="filename">soundstudio/waveforms/three0063.png</key>
+            <key type="filename">soundstudio/waveforms/three0064.png</key>
+            <key type="filename">soundstudio/waveforms/three0065.png</key>
+            <key type="filename">soundstudio/waveforms/three0066.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0049.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0050.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0051.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0052.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0053.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0054.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0055.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0056.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0057.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0058.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0059.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0060.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0061.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0062.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0063.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0064.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0065.png</key>
+            <key type="filename">soundstudio/waveforms/twelve0066.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>16,28,32,55</rect>
+                <key>scale9Paddings</key>
+                <rect>16,28,32,55</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
