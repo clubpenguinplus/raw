@@ -703,6 +703,70 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">agentlobby/droplets0005.png</key>
+            <key type="filename">agentlobby/droplets0006.png</key>
+            <key type="filename">agentlobby/droplets0007.png</key>
+            <key type="filename">agentlobby/droplets0008.png</key>
+            <key type="filename">agentlobby/droplets0009.png</key>
+            <key type="filename">agentlobby/droplets0010.png</key>
+            <key type="filename">agentlobby/droplets0011.png</key>
+            <key type="filename">agentlobby/droplets0012.png</key>
+            <key type="filename">agentlobby/droplets0013.png</key>
+            <key type="filename">agentlobby/droplets0014.png</key>
+            <key type="filename">agentlobby/droplets0015.png</key>
+            <key type="filename">agentlobby/droplets0016.png</key>
+            <key type="filename">agentlobby/droplets0017.png</key>
+            <key type="filename">agentlobby/droplets0018.png</key>
+            <key type="filename">agentlobby/droplets0019.png</key>
+            <key type="filename">agentlobby/droplets0020.png</key>
+            <key type="filename">agentlobby/droplets0021.png</key>
+            <key type="filename">agentlobby/droplets0022.png</key>
+            <key type="filename">agentlobby/droplets0023.png</key>
+            <key type="filename">agentlobby/droplets0024.png</key>
+            <key type="filename">agentlobby/droplets0025.png</key>
+            <key type="filename">agentlobby/droplets0026.png</key>
+            <key type="filename">agentlobby/droplets0027.png</key>
+            <key type="filename">agentlobby/droplets0028.png</key>
+            <key type="filename">agentlobby/droplets0029.png</key>
+            <key type="filename">agentlobby/droplets0030.png</key>
+            <key type="filename">agentlobby/droplets0031.png</key>
+            <key type="filename">agentlobby/droplets0032.png</key>
+            <key type="filename">agentlobby/droplets0033.png</key>
+            <key type="filename">agentlobby/droplets0034.png</key>
+            <key type="filename">agentlobby/droplets0035.png</key>
+            <key type="filename">agentlobby/droplets0036.png</key>
+            <key type="filename">agentlobby/droplets0037.png</key>
+            <key type="filename">agentlobby/droplets0038.png</key>
+            <key type="filename">agentlobby/droplets0039.png</key>
+            <key type="filename">agentlobby/droplets0040.png</key>
+            <key type="filename">agentlobby/droplets0041.png</key>
+            <key type="filename">agentlobby/droplets0042.png</key>
+            <key type="filename">agentlobby/droplets0043.png</key>
+            <key type="filename">agentlobby/droplets0044.png</key>
+            <key type="filename">agentlobby/droplets0045.png</key>
+            <key type="filename">agentlobby/droplets0046.png</key>
+            <key type="filename">agentlobby/droplets0047.png</key>
+            <key type="filename">agentlobby/droplets0048.png</key>
+            <key type="filename">agentlobby/droplets0049.png</key>
+            <key type="filename">agentlobby/droplets0050.png</key>
+            <key type="filename">agentlobby/droplets0051.png</key>
+            <key type="filename">agentlobby/droplets0052.png</key>
+            <key type="filename">agentlobby/droplets0053.png</key>
+            <key type="filename">agentlobby/droplets0054.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>89,45,179,90</rect>
+                <key>scale9Paddings</key>
+                <rect>89,45,179,90</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">agentlobby/fg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -1335,26 +1399,59 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">agentlobby/phonebox_epf0001.png</key>
-            <key type="filename">agentlobby/phonebox_epf0002.png</key>
-            <key type="filename">agentlobby/phonebox_epf0003.png</key>
-            <key type="filename">agentlobby/phonebox_epf0004.png</key>
-            <key type="filename">agentlobby/phonebox_epf0005.png</key>
-            <key type="filename">agentlobby/phonebox_epf0006.png</key>
-            <key type="filename">agentlobby/phonebox_epf0007.png</key>
-            <key type="filename">agentlobby/phonebox_epf0008.png</key>
-            <key type="filename">agentlobby/phonebox_epf0009.png</key>
-            <key type="filename">agentlobby/phonebox_epf0010.png</key>
-            <key type="filename">agentlobby/phonebox_epf0011.png</key>
-            <key type="filename">agentlobby/phonebox_epf0012.png</key>
-            <key type="filename">agentlobby/phonebox_epf0013.png</key>
-            <key type="filename">agentlobby/phonebox_epf0014.png</key>
-            <key type="filename">agentlobby/phonebox_epf0015.png</key>
-            <key type="filename">agentlobby/phonebox_epf0016.png</key>
-            <key type="filename">agentlobby/phonebox_epf0017.png</key>
-            <key type="filename">agentlobby/phonebox_epf0018.png</key>
-            <key type="filename">agentlobby/phonebox_epf0019.png</key>
-            <key type="filename">agentlobby/phonebox_epf0020.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0001.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0002.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0003.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0004.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0005.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0006.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0007.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0008.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0009.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0010.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0011.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0012.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0013.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0014.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0015.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0016.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0017.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0018.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0019.png</key>
+            <key type="filename">agentlobby/phonebox_epf_close0020.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0001.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0002.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0003.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0004.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0005.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0006.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0007.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0008.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0009.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0010.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0011.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0012.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0013.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0014.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0015.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0016.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0017.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0018.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0019.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0020.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0021.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0022.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0023.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0024.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0025.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0026.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0027.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0028.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0029.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0030.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0031.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0032.png</key>
+            <key type="filename">agentlobby/phonebox_epf_open0033.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1363,9 +1460,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>12,11,25,21</rect>
+                <rect>29,34,57,67</rect>
                 <key>scale9Paddings</key>
-                <rect>12,11,25,21</rect>
+                <rect>29,34,57,67</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
