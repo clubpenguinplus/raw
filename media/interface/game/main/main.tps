@@ -314,6 +314,8 @@
             <key type="filename">main/ignore-remove-icon.png</key>
             <key type="filename">main/mute-icon.png</key>
             <key type="filename">main/online-icon.png</key>
+            <key type="filename">main/volume-down.png</key>
+            <key type="filename">main/volume-up.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
