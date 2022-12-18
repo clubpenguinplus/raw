@@ -297,9 +297,9 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">igloo/catalog-active.png</key>
             <key type="filename">igloo/catalog-hover.png</key>
             <key type="filename">igloo/catalog.png</key>
-            <key type="filename">igloo/catalog0-active.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -398,6 +398,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">igloo/item-amount.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>9,9,19,19</rect>
+                <key>scale9Paddings</key>
+                <rect>9,9,19,19</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">igloo/item-bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>22,22,45,43</rect>
+                <key>scale9Paddings</key>
+                <rect>22,22,45,43</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">igloo/keys-all.png</key>
             <key type="filename">igloo/keys-leftright.png</key>
             <key type="filename">igloo/keys-none.png</key>
@@ -413,6 +443,40 @@
                 <rect>42,24,85,49</rect>
                 <key>scale9Paddings</key>
                 <rect>42,24,85,49</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">igloo/like-button-active.png</key>
+            <key type="filename">igloo/like-button-hover.png</key>
+            <key type="filename">igloo/like-button.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>49,14,97,28</rect>
+                <key>scale9Paddings</key>
+                <rect>49,14,97,28</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">igloo/like-window0001.png</key>
+            <key type="filename">igloo/like-window0002.png</key>
+            <key type="filename">igloo/like-window0003.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>49,15,97,30</rect>
+                <key>scale9Paddings</key>
+                <rect>49,15,97,30</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -478,6 +542,36 @@
                 <rect>85,12,170,24</rect>
                 <key>scale9Paddings</key>
                 <rect>85,12,170,24</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">igloo/plus.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>19,19,38,38</rect>
+                <key>scale9Paddings</key>
+                <rect>19,19,38,38</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">igloo/preview-pane.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>80,65,159,129</rect>
+                <key>scale9Paddings</key>
+                <rect>80,65,159,129</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
