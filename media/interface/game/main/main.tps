@@ -1355,6 +1355,40 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">main/like-button-active.png</key>
+            <key type="filename">main/like-button-hover.png</key>
+            <key type="filename">main/like-button.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>49,14,97,28</rect>
+                <key>scale9Paddings</key>
+                <rect>49,14,97,28</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">main/like-window-active.png</key>
+            <key type="filename">main/like-window-hover.png</key>
+            <key type="filename">main/like-window.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>49,15,97,30</rect>
+                <key>scale9Paddings</key>
+                <rect>49,15,97,30</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">main/list/small-hover.png</key>
             <key type="filename">main/list/small.png</key>
             <key type="filename">main/list/small_arrow-hover.png</key>
