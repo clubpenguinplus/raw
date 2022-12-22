@@ -1200,6 +1200,8 @@
                 <false/>
             </struct>
             <key type="filename">main/emotes/30.png</key>
+            <key type="filename">main/like-player-bg.png</key>
+            <key type="filename">main/like-player.png</key>
             <key type="filename">main/mobile/buddies-icon-disabled.png</key>
             <key type="filename">main/mobile/buddies-icon.png</key>
             <struct type="IndividualSpriteSettings">
