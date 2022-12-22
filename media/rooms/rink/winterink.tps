@@ -185,7 +185,7 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">../../../../raw_assets/rink/bgwinter.png</key>
+            <key type="filename">winterink/bgwinter.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -194,9 +194,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>380,245,760,489</rect>
+                <rect>424,262,848,524</rect>
                 <key>scale9Paddings</key>
-                <rect>380,245,760,489</rect>
+                <rect>424,262,848,524</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -280,7 +280,6 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>../../../../raw_assets/rink/bgwinter.png</filename>
             <filename>../../../../raw_assets/rink/fgwinter.png</filename>
             <filename>../../../../raw_assets/rink/net2winter.png</filename>
             <filename>../../../../raw_assets/rink/net3winter.png</filename>
@@ -288,6 +287,7 @@
             <filename>../../../../raw_assets/rink/netwinter.png</filename>
             <filename>../../../../raw_assets/rink/toprink.png</filename>
             <filename>../../../../raw_assets/rink/puck.webp</filename>
+            <filename>winterink/bgwinter.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
