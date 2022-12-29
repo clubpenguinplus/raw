@@ -200,6 +200,63 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0001.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0002.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0003.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0004.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0005.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0006.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0007.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0008.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0009.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0010.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0011.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0012.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0013.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0014.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0015.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0016.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0017.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0018.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0019.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0020.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0021.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0022.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0023.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0024.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0025.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0026.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0027.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0028.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0029.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0030.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0031.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0032.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0033.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0034.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0035.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0036.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0037.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0038.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0039.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0040.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0041.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0042.png</key>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannon0043.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>167,145,335,289</rect>
+                <key>scale9Paddings</key>
+                <rect>167,145,335,289</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../raw_assets/shipnest/assets/cannonback0001.png</key>
             <key type="filename">../../../../raw_assets/shipnest/assets/cannonback0002.png</key>
             <key type="filename">../../../../raw_assets/shipnest/assets/cannonback0003.png</key>
@@ -311,6 +368,51 @@
                 <rect>90,76,180,151</rect>
                 <key>scale9Paddings</key>
                 <rect>90,76,180,151</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannonholder.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>66,50,133,100</rect>
+                <key>scale9Paddings</key>
+                <rect>66,50,133,100</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannonholderback.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>60,40,121,80</rect>
+                <key>scale9Paddings</key>
+                <rect>60,40,121,80</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../raw_assets/shipnest/assets/cannonholderfront.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>51,44,101,87</rect>
+                <key>scale9Paddings</key>
+                <rect>51,44,101,87</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -1596,6 +1698,52 @@
             <filename>../../../../raw_assets/shipnest/assets/powder_fr.png</filename>
             <filename>../../../../raw_assets/shipnest/assets/powder_pt.png</filename>
             <filename>../../../../raw_assets/shipnest/assets/powder_ru.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0001.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0002.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0003.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0004.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0005.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0006.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0007.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0008.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0009.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0010.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0011.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0012.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0013.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0014.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0015.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0016.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0017.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0018.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0019.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0020.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0021.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0022.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0023.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0024.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0025.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0026.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0027.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0028.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0029.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0030.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0031.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0032.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0033.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0034.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0035.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0036.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0037.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0038.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0039.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0040.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0041.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0042.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannon0043.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannonholder.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannonholderback.png</filename>
+            <filename>../../../../raw_assets/shipnest/assets/cannonholderfront.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
