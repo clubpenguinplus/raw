@@ -201,6 +201,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/age_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>138,24,277,47</rect>
+                <key>scale9Paddings</key>
+                <rect>138,24,277,47</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../raw_assets/tour/assets/age_fr.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -246,6 +261,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/already_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>143,16,285,31</rect>
+                <key>scale9Paddings</key>
+                <rect>143,16,285,31</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../raw_assets/tour/assets/already_fr.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -288,6 +318,21 @@
                 <rect>126,32,253,63</rect>
                 <key>scale9Paddings</key>
                 <rect>126,32,253,63</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/bantext_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>123,24,245,47</rect>
+                <key>scale9Paddings</key>
+                <rect>123,24,245,47</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -353,6 +398,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/congrats_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>145,53,291,105</rect>
+                <key>scale9Paddings</key>
+                <rect>145,53,291,105</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../raw_assets/tour/assets/congrats_fr.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -395,6 +455,21 @@
                 <rect>121,9,241,18</rect>
                 <key>scale9Paddings</key>
                 <rect>121,9,241,18</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/congratstitle_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>103,10,205,19</rect>
+                <key>scale9Paddings</key>
+                <rect>103,10,205,19</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -458,6 +533,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/done_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>35,7,70,15</rect>
+                <key>scale9Paddings</key>
+                <rect>35,7,70,15</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../raw_assets/tour/assets/done_fr.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -517,6 +607,21 @@
                 <rect>147,44,294,87</rect>
                 <key>scale9Paddings</key>
                 <rect>147,44,294,87</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/fail_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>139,53,277,105</rect>
+                <key>scale9Paddings</key>
+                <rect>139,53,277,105</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -612,6 +717,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/guidestitle_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>104,10,207,19</rect>
+                <key>scale9Paddings</key>
+                <rect>104,10,207,19</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../raw_assets/tour/assets/guidestitle_fr.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -654,6 +774,21 @@
                 <rect>143,62,285,123</rect>
                 <key>scale9Paddings</key>
                 <rect>143,62,285,123</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/hometext_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>146,53,293,105</rect>
+                <key>scale9Paddings</key>
+                <rect>146,53,293,105</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -701,6 +836,21 @@
                 <rect>11,8,21,15</rect>
                 <key>scale9Paddings</key>
                 <rect>11,8,21,15</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/ok_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>31,9,61,19</rect>
+                <key>scale9Paddings</key>
+                <rect>31,9,61,19</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -774,6 +924,34 @@
                 <rect>144,134,287,268</rect>
                 <key>scale9Paddings</key>
                 <rect>144,134,287,268</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions10_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions11_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions12_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions13_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions14_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions1_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions2_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions3_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions4_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions5_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions6_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions7_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions8_es.png</key>
+            <key type="filename">../../../../../raw_assets/tour/assets/questions9_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>154,135,308,271</rect>
+                <key>scale9Paddings</key>
+                <rect>154,135,308,271</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -863,6 +1041,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/takequiz_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>90,9,179,19</rect>
+                <key>scale9Paddings</key>
+                <rect>90,9,179,19</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../raw_assets/tour/assets/takequiz_fr.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -905,6 +1098,21 @@
                 <rect>106,8,213,15</rect>
                 <key>scale9Paddings</key>
                 <rect>106,8,213,15</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/tour/assets/tourguidehat_es.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>79,7,157,15</rect>
+                <key>scale9Paddings</key>
+                <rect>79,7,157,15</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -1036,6 +1244,32 @@
             <filename>../../../../../raw_assets/tour/assets/tourguidehat_en.png</filename>
             <filename>../../../../../raw_assets/tour/assets/tourguidehat_fr.png</filename>
             <filename>../../../../../raw_assets/tour/assets/tourguidehat_pt.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/age_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/already_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/bantext_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/congrats_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/congratstitle_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/done_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/fail_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/guidestitle_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/hometext_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/ok_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions10_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions11_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions12_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions13_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions14_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions1_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions2_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions3_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions4_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions5_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions6_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions7_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions8_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/questions9_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/takequiz_es.png</filename>
+            <filename>../../../../../raw_assets/tour/assets/tourguidehat_es.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
