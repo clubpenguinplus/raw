@@ -188,78 +188,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">village/belt0001.png</key>
-            <key type="filename">village/belt0002.png</key>
-            <key type="filename">village/belt0003.png</key>
-            <key type="filename">village/belt0004.png</key>
-            <key type="filename">village/belt0005.png</key>
-            <key type="filename">village/belt0006.png</key>
-            <key type="filename">village/belt0007.png</key>
-            <key type="filename">village/belt0008.png</key>
-            <key type="filename">village/belt0009.png</key>
-            <key type="filename">village/belt0010.png</key>
-            <key type="filename">village/belt0011.png</key>
-            <key type="filename">village/belt0012.png</key>
-            <key type="filename">village/belt0013.png</key>
-            <key type="filename">village/belt0014.png</key>
-            <key type="filename">village/belt0015.png</key>
-            <key type="filename">village/belt0016.png</key>
-            <key type="filename">village/belt0017.png</key>
-            <key type="filename">village/belt0018.png</key>
-            <key type="filename">village/belt0019.png</key>
-            <key type="filename">village/belt0020.png</key>
-            <key type="filename">village/belt0021.png</key>
-            <key type="filename">village/belt0022.png</key>
-            <key type="filename">village/belt0023.png</key>
-            <key type="filename">village/belt0024.png</key>
-            <key type="filename">village/belt0025.png</key>
-            <key type="filename">village/belt0026.png</key>
-            <key type="filename">village/belt0027.png</key>
-            <key type="filename">village/belt0028.png</key>
-            <key type="filename">village/belt0029.png</key>
-            <key type="filename">village/belt0030.png</key>
-            <key type="filename">village/belt0031.png</key>
-            <key type="filename">village/belt0032.png</key>
-            <key type="filename">village/belt0033.png</key>
-            <key type="filename">village/belt0034.png</key>
-            <key type="filename">village/belt0035.png</key>
-            <key type="filename">village/belt0036.png</key>
-            <key type="filename">village/belt0037.png</key>
-            <key type="filename">village/belt0038.png</key>
-            <key type="filename">village/belt0039.png</key>
-            <key type="filename">village/belt0040.png</key>
-            <key type="filename">village/belt0041.png</key>
-            <key type="filename">village/belt0042.png</key>
-            <key type="filename">village/belt0043.png</key>
-            <key type="filename">village/belt0044.png</key>
-            <key type="filename">village/belt0045.png</key>
-            <key type="filename">village/belt0046.png</key>
-            <key type="filename">village/belt0047.png</key>
-            <key type="filename">village/belt0048.png</key>
-            <key type="filename">village/belt0049.png</key>
-            <key type="filename">village/belt0050.png</key>
-            <key type="filename">village/belt0051.png</key>
-            <key type="filename">village/belt0052.png</key>
-            <key type="filename">village/belt0053.png</key>
-            <key type="filename">village/belt0054.png</key>
-            <key type="filename">village/belt0055.png</key>
-            <key type="filename">village/belt0056.png</key>
-            <key type="filename">village/belt0057.png</key>
-            <key type="filename">village/belt0058.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>28,17,55,35</rect>
-                <key>scale9Paddings</key>
-                <rect>28,17,55,35</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">village/bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -489,21 +417,6 @@
                 <rect>363,219,727,437</rect>
                 <key>scale9Paddings</key>
                 <rect>363,219,727,437</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">village/shape 286.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>380,198,760,395</rect>
-                <key>scale9Paddings</key>
-                <rect>380,198,760,395</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
