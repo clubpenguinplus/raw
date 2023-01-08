@@ -215,6 +215,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../raw_assets/unlock/assets/bottomchest.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>231,122,461,244</rect>
+                <key>scale9Paddings</key>
+                <rect>231,122,461,244</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../raw_assets/unlock/assets/bubbles0001.png</key>
             <key type="filename">../../../../../raw_assets/unlock/assets/bubbles0002.png</key>
             <key type="filename">../../../../../raw_assets/unlock/assets/bubbles0003.png</key>
@@ -530,6 +545,96 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0001.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0002.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0003.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0004.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0005.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0006.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0007.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0008.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0009.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0010.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0011.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0012.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0013.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0014.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0015.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0016.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0017.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0018.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0019.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0020.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0021.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0022.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0023.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0024.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0025.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0026.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0027.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0028.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0029.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0030.png</key>
+            <key type="filename">../../../../../raw_assets/unlock/assets/itemholderanim0031.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,90,63,179</rect>
+                <key>scale9Paddings</key>
+                <rect>32,90,63,179</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/unlock/assets/moneybag.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>205,199,410,397</rect>
+                <key>scale9Paddings</key>
+                <rect>205,199,410,397</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/unlock/assets/topchest.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>404,182,809,363</rect>
+                <key>scale9Paddings</key>
+                <rect>404,182,809,363</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">../../../../../raw_assets/unlock/assets/topchestt.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>242,120,484,241</rect>
+                <key>scale9Paddings</key>
+                <rect>242,120,484,241</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">../../../../../raw_assets/unlock/assets/unlocked.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -782,6 +887,41 @@
             <filename>../../../../../raw_assets/unlock/assets/unlocked.png</filename>
             <filename>../../../../../raw_assets/unlock/assets/blackbox.png</filename>
             <filename>../../../../../raw_assets/unlock/assets/codeinput.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/bottomchest.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0001.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0002.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0003.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0004.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0005.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0006.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0007.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0008.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0009.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0010.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0011.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0012.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0013.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0014.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0015.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0016.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0017.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0018.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0019.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0020.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0021.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0022.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0023.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0024.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0025.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0026.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0027.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0028.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0029.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0030.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/itemholderanim0031.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/topchest.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/topchestt.png</filename>
+            <filename>../../../../../raw_assets/unlock/assets/moneybag.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
