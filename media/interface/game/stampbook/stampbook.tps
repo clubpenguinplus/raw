@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../cpplus/client/client/media/interface/game/stampbook/stampbook.json</filename>
+                <filename>../../../../../client/client/media/interface/game/stampbook/stampbook.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -173,7 +173,7 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">assets/arrow.png</key>
+            <key type="filename">stampbook/arrow.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -188,7 +188,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/bg.png</key>
+            <key type="filename">stampbook/bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -203,26 +203,26 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/categories/11.png</key>
-            <key type="filename">assets/categories/13.png</key>
-            <key type="filename">assets/categories/14.png</key>
-            <key type="filename">assets/categories/15.png</key>
-            <key type="filename">assets/categories/16.png</key>
-            <key type="filename">assets/categories/19.png</key>
-            <key type="filename">assets/categories/22.png</key>
-            <key type="filename">assets/categories/28.png</key>
-            <key type="filename">assets/categories/32.png</key>
-            <key type="filename">assets/categories/34.png</key>
-            <key type="filename">assets/categories/38.png</key>
-            <key type="filename">assets/categories/46.png</key>
-            <key type="filename">assets/categories/48.png</key>
-            <key type="filename">assets/categories/52.png</key>
-            <key type="filename">assets/categories/54.png</key>
-            <key type="filename">assets/categories/56.png</key>
-            <key type="filename">assets/categories/57.png</key>
-            <key type="filename">assets/categories/58.png</key>
-            <key type="filename">assets/categories/60.png</key>
-            <key type="filename">assets/categories/8.png</key>
+            <key type="filename">stampbook/categories/11.png</key>
+            <key type="filename">stampbook/categories/13.png</key>
+            <key type="filename">stampbook/categories/14.png</key>
+            <key type="filename">stampbook/categories/15.png</key>
+            <key type="filename">stampbook/categories/16.png</key>
+            <key type="filename">stampbook/categories/19.png</key>
+            <key type="filename">stampbook/categories/22.png</key>
+            <key type="filename">stampbook/categories/28.png</key>
+            <key type="filename">stampbook/categories/32.png</key>
+            <key type="filename">stampbook/categories/34.png</key>
+            <key type="filename">stampbook/categories/38.png</key>
+            <key type="filename">stampbook/categories/46.png</key>
+            <key type="filename">stampbook/categories/48.png</key>
+            <key type="filename">stampbook/categories/52.png</key>
+            <key type="filename">stampbook/categories/54.png</key>
+            <key type="filename">stampbook/categories/56.png</key>
+            <key type="filename">stampbook/categories/57.png</key>
+            <key type="filename">stampbook/categories/58.png</key>
+            <key type="filename">stampbook/categories/60.png</key>
+            <key type="filename">stampbook/categories/8.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -237,8 +237,8 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/categories/23.png</key>
-            <key type="filename">assets/categories/6.png</key>
+            <key type="filename">stampbook/categories/23.png</key>
+            <key type="filename">stampbook/categories/6.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -253,8 +253,8 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/categories/25.png</key>
-            <key type="filename">assets/categories/26.png</key>
+            <key type="filename">stampbook/categories/25.png</key>
+            <key type="filename">stampbook/categories/26.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -269,7 +269,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/categories/5.png</key>
+            <key type="filename">stampbook/categories/5.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -284,7 +284,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/categories/7.png</key>
+            <key type="filename">stampbook/categories/7.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -299,7 +299,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/categories/9000.png</key>
+            <key type="filename">stampbook/categories/9000.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -314,7 +314,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/categories/9001.png</key>
+            <key type="filename">stampbook/categories/9001.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -329,7 +329,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/clasp.png</key>
+            <key type="filename">stampbook/clasp.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -344,7 +344,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/clasp/1.png</key>
+            <key type="filename">stampbook/clasp/1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -359,7 +359,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/clasp/2.png</key>
+            <key type="filename">stampbook/clasp/2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -374,7 +374,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/clasp/3.png</key>
+            <key type="filename">stampbook/clasp/3.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -389,7 +389,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/clasp/4.png</key>
+            <key type="filename">stampbook/clasp/4.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -404,7 +404,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/clasp/5.png</key>
+            <key type="filename">stampbook/clasp/5.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -419,7 +419,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/clasp/6.png</key>
+            <key type="filename">stampbook/clasp/6.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -434,13 +434,13 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/close-active.png</key>
-            <key type="filename">assets/close-hover.png</key>
-            <key type="filename">assets/close.png</key>
-            <key type="filename">assets/page_back-hover.png</key>
-            <key type="filename">assets/page_back.png</key>
-            <key type="filename">assets/page_forward-hover.png</key>
-            <key type="filename">assets/page_forward.png</key>
+            <key type="filename">stampbook/close-active.png</key>
+            <key type="filename">stampbook/close-hover.png</key>
+            <key type="filename">stampbook/close.png</key>
+            <key type="filename">stampbook/page_back-hover.png</key>
+            <key type="filename">stampbook/page_back.png</key>
+            <key type="filename">stampbook/page_forward-hover.png</key>
+            <key type="filename">stampbook/page_forward.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -455,12 +455,12 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/colour/1.png</key>
-            <key type="filename">assets/colour/2.png</key>
-            <key type="filename">assets/colour/3.png</key>
-            <key type="filename">assets/colour/4.png</key>
-            <key type="filename">assets/colour/5.png</key>
-            <key type="filename">assets/colour/6.png</key>
+            <key type="filename">stampbook/colour/1.png</key>
+            <key type="filename">stampbook/colour/2.png</key>
+            <key type="filename">stampbook/colour/3.png</key>
+            <key type="filename">stampbook/colour/4.png</key>
+            <key type="filename">stampbook/colour/5.png</key>
+            <key type="filename">stampbook/colour/6.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -475,7 +475,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/contents-instruct.png</key>
+            <key type="filename">stampbook/contents-instruct.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -484,13 +484,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>93,116,187,231</rect>
+                <rect>93,105,187,209</rect>
                 <key>scale9Paddings</key>
-                <rect>93,116,187,231</rect>
+                <rect>93,105,187,209</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/dividers.png</key>
+            <key type="filename">stampbook/dividers.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -505,8 +505,8 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/edit-hover.png</key>
-            <key type="filename">assets/edit.png</key>
+            <key type="filename">stampbook/edit-hover.png</key>
+            <key type="filename">stampbook/edit.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -521,7 +521,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/edit_top.png</key>
+            <key type="filename">stampbook/edit_top.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -536,7 +536,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/editor_background.png</key>
+            <key type="filename">stampbook/editor_background.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -551,7 +551,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/editor_options.png</key>
+            <key type="filename">stampbook/editor_options.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -566,7 +566,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/editor_side.png</key>
+            <key type="filename">stampbook/editor_side.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -581,7 +581,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/editor_top.png</key>
+            <key type="filename">stampbook/editor_top.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -596,7 +596,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/help.png</key>
+            <key type="filename">stampbook/help.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -611,7 +611,22 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/activities.png</key>
+            <key type="filename">stampbook/hover.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>76,46,151,91</rect>
+                <key>scale9Paddings</key>
+                <rect>76,46,151,91</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">stampbook/pagebgs/activities.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -626,7 +641,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/aqua.png</key>
+            <key type="filename">stampbook/pagebgs/aqua.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -641,7 +656,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/astro.png</key>
+            <key type="filename">stampbook/pagebgs/astro.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -656,7 +671,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/contents.png</key>
+            <key type="filename">stampbook/pagebgs/contents.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -671,7 +686,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/defender.png</key>
+            <key type="filename">stampbook/pagebgs/defender.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -686,7 +701,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/entertainment.png</key>
+            <key type="filename">stampbook/pagebgs/entertainment.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -701,7 +716,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/firejitsu.png</key>
+            <key type="filename">stampbook/pagebgs/firejitsu.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -716,7 +731,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/fishing.png</key>
+            <key type="filename">stampbook/pagebgs/fishing.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -731,7 +746,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/games.png</key>
+            <key type="filename">stampbook/pagebgs/games.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -746,7 +761,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/jetpack.png</key>
+            <key type="filename">stampbook/pagebgs/jetpack.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -761,7 +776,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/jitsu.png</key>
+            <key type="filename">stampbook/pagebgs/jitsu.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -776,7 +791,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/mascots.png</key>
+            <key type="filename">stampbook/pagebgs/mascots.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -791,7 +806,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/missions.png</key>
+            <key type="filename">stampbook/pagebgs/missions.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -806,7 +821,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/party.png</key>
+            <key type="filename">stampbook/pagebgs/party.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -821,7 +836,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/pins.png</key>
+            <key type="filename">stampbook/pagebgs/pins.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -836,7 +851,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/pizzatron.png</key>
+            <key type="filename">stampbook/pagebgs/pizzatron.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -851,7 +866,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/pufflelaunch.png</key>
+            <key type="filename">stampbook/pagebgs/pufflelaunch.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -866,7 +881,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/pufflescape.png</key>
+            <key type="filename">stampbook/pagebgs/pufflescape.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -881,7 +896,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/rescue.png</key>
+            <key type="filename">stampbook/pagebgs/rescue.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -896,7 +911,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/smoothie.png</key>
+            <key type="filename">stampbook/pagebgs/smoothie.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -911,7 +926,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/snowjitsu.png</key>
+            <key type="filename">stampbook/pagebgs/snowjitsu.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -926,7 +941,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/surfer.png</key>
+            <key type="filename">stampbook/pagebgs/surfer.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -941,7 +956,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/thinice.png</key>
+            <key type="filename">stampbook/pagebgs/thinice.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -956,7 +971,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/treasurehunt.png</key>
+            <key type="filename">stampbook/pagebgs/treasurehunt.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -971,7 +986,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/waterjitsu.png</key>
+            <key type="filename">stampbook/pagebgs/waterjitsu.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -986,7 +1001,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pagebgs/waves.png</key>
+            <key type="filename">stampbook/pagebgs/waves.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1001,11 +1016,11 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pattern/1.png</key>
-            <key type="filename">assets/pattern/2.png</key>
-            <key type="filename">assets/pattern/3.png</key>
-            <key type="filename">assets/pattern/5.png</key>
-            <key type="filename">assets/pattern/6.png</key>
+            <key type="filename">stampbook/pattern/1.png</key>
+            <key type="filename">stampbook/pattern/2.png</key>
+            <key type="filename">stampbook/pattern/3.png</key>
+            <key type="filename">stampbook/pattern/5.png</key>
+            <key type="filename">stampbook/pattern/6.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1020,7 +1035,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/pattern/4.png</key>
+            <key type="filename">stampbook/pattern/4.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1035,8 +1050,8 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/polaroid1-bg.png</key>
-            <key type="filename">assets/polaroid3-bg.png</key>
+            <key type="filename">stampbook/polaroid1-bg.png</key>
+            <key type="filename">stampbook/polaroid3-bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1051,7 +1066,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/polaroid1.png</key>
+            <key type="filename">stampbook/polaroid1.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1060,13 +1075,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>56,63,113,125</rect>
+                <rect>66,66,131,131</rect>
                 <key>scale9Paddings</key>
-                <rect>56,63,113,125</rect>
+                <rect>66,66,131,131</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/polaroid2-bg.png</key>
+            <key type="filename">stampbook/polaroid2-bg.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1081,7 +1096,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/polaroid2.png</key>
+            <key type="filename">stampbook/polaroid2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1090,13 +1105,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>56,70,113,139</rect>
+                <rect>71,71,142,142</rect>
                 <key>scale9Paddings</key>
-                <rect>56,70,113,139</rect>
+                <rect>71,71,142,142</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/polaroid3.png</key>
+            <key type="filename">stampbook/polaroid3.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1105,13 +1120,13 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>56,61,113,123</rect>
+                <rect>65,66,131,131</rect>
                 <key>scale9Paddings</key>
-                <rect>56,61,113,123</rect>
+                <rect>65,66,131,131</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/polaroid_shadow.png</key>
+            <key type="filename">stampbook/polaroid_shadow.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1126,7 +1141,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/polaroidlocked.png</key>
+            <key type="filename">stampbook/polaroidlocked.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1141,7 +1156,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/save.png</key>
+            <key type="filename">stampbook/save.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1156,9 +1171,9 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/sidebutton-active.png</key>
-            <key type="filename">assets/sidebutton-hover.png</key>
-            <key type="filename">assets/sidebutton.png</key>
+            <key type="filename">stampbook/sidebutton-active.png</key>
+            <key type="filename">stampbook/sidebutton-hover.png</key>
+            <key type="filename">stampbook/sidebutton.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1173,24 +1188,24 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/thumbs/clasp/1.png</key>
-            <key type="filename">assets/thumbs/clasp/2.png</key>
-            <key type="filename">assets/thumbs/clasp/3.png</key>
-            <key type="filename">assets/thumbs/clasp/4.png</key>
-            <key type="filename">assets/thumbs/clasp/5.png</key>
-            <key type="filename">assets/thumbs/clasp/6.png</key>
-            <key type="filename">assets/thumbs/color/1.png</key>
-            <key type="filename">assets/thumbs/color/2.png</key>
-            <key type="filename">assets/thumbs/color/3.png</key>
-            <key type="filename">assets/thumbs/color/4.png</key>
-            <key type="filename">assets/thumbs/color/5.png</key>
-            <key type="filename">assets/thumbs/color/6.png</key>
-            <key type="filename">assets/thumbs/pattern/1.png</key>
-            <key type="filename">assets/thumbs/pattern/2.png</key>
-            <key type="filename">assets/thumbs/pattern/3.png</key>
-            <key type="filename">assets/thumbs/pattern/4.png</key>
-            <key type="filename">assets/thumbs/pattern/5.png</key>
-            <key type="filename">assets/thumbs/pattern/6.png</key>
+            <key type="filename">stampbook/thumbs/clasp/1.png</key>
+            <key type="filename">stampbook/thumbs/clasp/2.png</key>
+            <key type="filename">stampbook/thumbs/clasp/3.png</key>
+            <key type="filename">stampbook/thumbs/clasp/4.png</key>
+            <key type="filename">stampbook/thumbs/clasp/5.png</key>
+            <key type="filename">stampbook/thumbs/clasp/6.png</key>
+            <key type="filename">stampbook/thumbs/color/1.png</key>
+            <key type="filename">stampbook/thumbs/color/2.png</key>
+            <key type="filename">stampbook/thumbs/color/3.png</key>
+            <key type="filename">stampbook/thumbs/color/4.png</key>
+            <key type="filename">stampbook/thumbs/color/5.png</key>
+            <key type="filename">stampbook/thumbs/color/6.png</key>
+            <key type="filename">stampbook/thumbs/pattern/1.png</key>
+            <key type="filename">stampbook/thumbs/pattern/2.png</key>
+            <key type="filename">stampbook/thumbs/pattern/3.png</key>
+            <key type="filename">stampbook/thumbs/pattern/4.png</key>
+            <key type="filename">stampbook/thumbs/pattern/5.png</key>
+            <key type="filename">stampbook/thumbs/pattern/6.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1205,7 +1220,7 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">assets/wordmark.png</key>
+            <key type="filename">stampbook/wordmark.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -1223,45 +1238,46 @@
         </map>
         <key>fileList</key>
         <array>
-            <filename>assets/arrow.png</filename>
-            <filename>assets/bg.png</filename>
-            <filename>assets/categories</filename>
-            <filename>assets/clasp</filename>
-            <filename>assets/clasp.png</filename>
-            <filename>assets/close-active.png</filename>
-            <filename>assets/close-hover.png</filename>
-            <filename>assets/close.png</filename>
-            <filename>assets/colour</filename>
-            <filename>assets/dividers.png</filename>
-            <filename>assets/edit-hover.png</filename>
-            <filename>assets/edit.png</filename>
-            <filename>assets/edit_top.png</filename>
-            <filename>assets/editor_background.png</filename>
-            <filename>assets/editor_options.png</filename>
-            <filename>assets/editor_side.png</filename>
-            <filename>assets/editor_top.png</filename>
-            <filename>assets/help.png</filename>
-            <filename>assets/page_back-hover.png</filename>
-            <filename>assets/page_back.png</filename>
-            <filename>assets/page_forward-hover.png</filename>
-            <filename>assets/page_forward.png</filename>
-            <filename>assets/pagebgs</filename>
-            <filename>assets/pattern</filename>
-            <filename>assets/polaroid1.png</filename>
-            <filename>assets/polaroid2.png</filename>
-            <filename>assets/polaroid3.png</filename>
-            <filename>assets/polaroidlocked.png</filename>
-            <filename>assets/save.png</filename>
-            <filename>assets/thumbs</filename>
-            <filename>assets/polaroid1-bg.png</filename>
-            <filename>assets/polaroid2-bg.png</filename>
-            <filename>assets/polaroid3-bg.png</filename>
-            <filename>assets/polaroid_shadow.png</filename>
-            <filename>assets/sidebutton-active.png</filename>
-            <filename>assets/sidebutton-hover.png</filename>
-            <filename>assets/sidebutton.png</filename>
-            <filename>assets/contents-instruct.png</filename>
-            <filename>assets/wordmark.png</filename>
+            <filename>stampbook/arrow.png</filename>
+            <filename>stampbook/bg.png</filename>
+            <filename>stampbook/categories</filename>
+            <filename>stampbook/clasp</filename>
+            <filename>stampbook/clasp.png</filename>
+            <filename>stampbook/close-active.png</filename>
+            <filename>stampbook/close-hover.png</filename>
+            <filename>stampbook/close.png</filename>
+            <filename>stampbook/colour</filename>
+            <filename>stampbook/contents-instruct.png</filename>
+            <filename>stampbook/dividers.png</filename>
+            <filename>stampbook/edit-hover.png</filename>
+            <filename>stampbook/edit.png</filename>
+            <filename>stampbook/edit_top.png</filename>
+            <filename>stampbook/editor_background.png</filename>
+            <filename>stampbook/editor_options.png</filename>
+            <filename>stampbook/editor_side.png</filename>
+            <filename>stampbook/editor_top.png</filename>
+            <filename>stampbook/help.png</filename>
+            <filename>stampbook/hover.png</filename>
+            <filename>stampbook/page_back-hover.png</filename>
+            <filename>stampbook/page_back.png</filename>
+            <filename>stampbook/page_forward-hover.png</filename>
+            <filename>stampbook/page_forward.png</filename>
+            <filename>stampbook/pagebgs</filename>
+            <filename>stampbook/pattern</filename>
+            <filename>stampbook/polaroid1-bg.png</filename>
+            <filename>stampbook/polaroid1.png</filename>
+            <filename>stampbook/polaroid2-bg.png</filename>
+            <filename>stampbook/polaroid2.png</filename>
+            <filename>stampbook/polaroid3-bg.png</filename>
+            <filename>stampbook/polaroid3.png</filename>
+            <filename>stampbook/polaroid_shadow.png</filename>
+            <filename>stampbook/polaroidlocked.png</filename>
+            <filename>stampbook/save.png</filename>
+            <filename>stampbook/sidebutton-active.png</filename>
+            <filename>stampbook/sidebutton-hover.png</filename>
+            <filename>stampbook/sidebutton.png</filename>
+            <filename>stampbook/thumbs</filename>
+            <filename>stampbook/wordmark.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
