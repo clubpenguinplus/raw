@@ -4,7 +4,7 @@
         <key>fileFormatVersion</key>
         <int>5</int>
         <key>texturePackerVersion</key>
-        <string>6.0.0</string>
+        <string>6.0.2</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -43,22 +43,12 @@
         <uint>2</uint>
         <key>basisUniversalQualityLevel</key>
         <uint>2</uint>
-        <key>atfCompressData</key>
-        <false/>
-        <key>mipMapMinSize</key>
-        <uint>32768</uint>
         <key>etc1QualityLevel</key>
         <uint>40</uint>
         <key>etc2QualityLevel</key>
         <uint>40</uint>
         <key>dxtCompressionMode</key>
         <enum type="SettingsBase::DxtCompressionMode">DXT_PERCEPTUAL</enum>
-        <key>jxrColorFormat</key>
-        <enum type="SettingsBase::JpegXrColorMode">JXR_YUV444</enum>
-        <key>jxrTrimFlexBits</key>
-        <uint>0</uint>
-        <key>jxrCompressionLevel</key>
-        <uint>0</uint>
         <key>ditherType</key>
         <enum type="SettingsBase::DitherType">NearestNeighbour</enum>
         <key>backgroundColor</key>
@@ -82,8 +72,6 @@
         <key>webpQualityLevel</key>
         <uint>101</uint>
         <key>textureSubPath</key>
-        <string></string>
-        <key>atfFormats</key>
         <string></string>
         <key>textureFormat</key>
         <enum type="SettingsBase::TextureFormat">webp</enum>
@@ -136,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>../../../../../client/client/media/interface/game/main/endscreens.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -157,7 +145,7 @@
         <key>trimSpriteNames</key>
         <true/>
         <key>prependSmartFolderName</key>
-        <true/>
+        <false/>
         <key>autodetectAnimations</key>
         <true/>
         <key>globalSpriteSettings</key>
@@ -184,9 +172,146 @@
             <false/>
         </struct>
         <key>individualSpriteSettings</key>
-        <map type="IndividualSpriteSettingsMap"/>
+        <map type="IndividualSpriteSettingsMap">
+            <key type="filename">endscreens/bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>225,213,450,425</rect>
+                <key>scale9Paddings</key>
+                <rect>225,213,450,425</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">endscreens/close_btn-active.png</key>
+            <key type="filename">endscreens/close_btn-hover.png</key>
+            <key type="filename">endscreens/close_btn.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>126,26,252,52</rect>
+                <key>scale9Paddings</key>
+                <rect>126,26,252,52</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">endscreens/coins.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>34,23,69,45</rect>
+                <key>scale9Paddings</key>
+                <rect>34,23,69,45</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">endscreens/divider.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>191,9,381,17</rect>
+                <key>scale9Paddings</key>
+                <rect>191,9,381,17</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">endscreens/hover.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>76,46,151,91</rect>
+                <key>scale9Paddings</key>
+                <rect>76,46,151,91</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">endscreens/icons/aquagrabber.png</key>
+            <key type="filename">endscreens/icons/astrobarrier.png</key>
+            <key type="filename">endscreens/icons/beancounters.png</key>
+            <key type="filename">endscreens/icons/bitsandbolts.png</key>
+            <key type="filename">endscreens/icons/card.png</key>
+            <key type="filename">endscreens/icons/cartsurfer.png</key>
+            <key type="filename">endscreens/icons/catchinwaves.png</key>
+            <key type="filename">endscreens/icons/cjfire.png</key>
+            <key type="filename">endscreens/icons/cjsnow.png</key>
+            <key type="filename">endscreens/icons/cjwater.png</key>
+            <key type="filename">endscreens/icons/dancecontest.png</key>
+            <key type="filename">endscreens/icons/four.png</key>
+            <key type="filename">endscreens/icons/hydrohopper.png</key>
+            <key type="filename">endscreens/icons/icefishing.png</key>
+            <key type="filename">endscreens/icons/jetpackadventure.png</key>
+            <key type="filename">endscreens/icons/mancala.png</key>
+            <key type="filename">endscreens/icons/pizzatron.png</key>
+            <key type="filename">endscreens/icons/pufflelaunch.png</key>
+            <key type="filename">endscreens/icons/pufflerescue.png</key>
+            <key type="filename">endscreens/icons/puffleroundup.png</key>
+            <key type="filename">endscreens/icons/pufflescape.png</key>
+            <key type="filename">endscreens/icons/sled.png</key>
+            <key type="filename">endscreens/icons/smoothie.png</key>
+            <key type="filename">endscreens/icons/soundstudio.png</key>
+            <key type="filename">endscreens/icons/spydrills.png</key>
+            <key type="filename">endscreens/icons/sysdef.png</key>
+            <key type="filename">endscreens/icons/thinice.png</key>
+            <key type="filename">endscreens/icons/treasurehunt.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>58,49,115,97</rect>
+                <key>scale9Paddings</key>
+                <rect>58,49,115,97</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">endscreens/stamps.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>7,7,15,15</rect>
+                <key>scale9Paddings</key>
+                <rect>7,7,15,15</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+        </map>
         <key>fileList</key>
-        <array/>
+        <array>
+            <filename>endscreens</filename>
+        </array>
         <key>ignoreFileList</key>
         <array/>
         <key>replaceList</key>
