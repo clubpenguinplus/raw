@@ -8,7 +8,7 @@ for (let file of files) {
 
     let jsonFile = fs.readFileSync(`${OutputDir}/${file}`)
     let jsonData = JSON.parse(jsonFile)
-    let sourceLayers = {}
+    let sourceLayers
     jsonData.textures.forEach(texture => {
         texture.frames.forEach(frame => {
             if (!sourceLayers) {
@@ -34,5 +34,5 @@ for (let file of files) {
         })
     })
 
-    fs.writeFileSync(`${OutputDir}/${file}`, JSON.stringify(jsonData))
+    fs.writeFileSync(`${OutputDir}/${file}`, JSON.stringify(jsonData, null, "	"))
 }
