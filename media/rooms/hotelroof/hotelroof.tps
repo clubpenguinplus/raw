@@ -599,6 +599,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">hotelroof/drinkstable.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>17,23,33,46</rect>
+                <key>scale9Paddings</key>
+                <rect>17,23,33,46</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">hotelroof/elevator-anim0001.png</key>
             <key type="filename">hotelroof/elevator-anim0002.png</key>
             <key type="filename">hotelroof/elevator-anim0003.png</key>
