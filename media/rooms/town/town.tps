@@ -379,6 +379,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">town/giftshopsign.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>19,27,38,55</rect>
+                <key>scale9Paddings</key>
+                <rect>19,27,38,55</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">town/leftchari.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -611,6 +626,36 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">town/localised-fr.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>282,66,564,132</rect>
+                <key>scale9Paddings</key>
+                <rect>282,66,564,132</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">town/localised-ru.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>331,104,661,209</rect>
+                <key>scale9Paddings</key>
+                <rect>331,104,661,209</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">town/rightchair.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -668,6 +713,32 @@
                 <rect>66,124,132,247</rect>
                 <key>scale9Paddings</key>
                 <rect>66,124,132,247</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">town/speakers0001.png</key>
+            <key type="filename">town/speakers0002.png</key>
+            <key type="filename">town/speakers0003.png</key>
+            <key type="filename">town/speakers0004.png</key>
+            <key type="filename">town/speakers0005.png</key>
+            <key type="filename">town/speakers0006.png</key>
+            <key type="filename">town/speakers0007.png</key>
+            <key type="filename">town/speakers0008.png</key>
+            <key type="filename">town/speakers0009.png</key>
+            <key type="filename">town/speakers0010.png</key>
+            <key type="filename">town/speakers0011.png</key>
+            <key type="filename">town/speakers0012.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>87,16,174,32</rect>
+                <key>scale9Paddings</key>
+                <rect>87,16,174,32</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
