@@ -298,6 +298,22 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">main/beta-hover.png</key>
+            <key type="filename">main/beta.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>25,25,49,49</rect>
+                <key>scale9Paddings</key>
+                <rect>25,25,49,49</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">main/blue-arrow.png</key>
             <key type="filename">main/blue-x.png</key>
             <key type="filename">main/buddies-icon-disabled.png</key>
@@ -763,6 +779,23 @@
                 <rect>22,16,43,32</rect>
                 <key>scale9Paddings</key>
                 <rect>22,16,43,32</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">main/egg-timer-active.png</key>
+            <key type="filename">main/egg-timer-hover.png</key>
+            <key type="filename">main/egg-timer.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>25,24,49,49</rect>
+                <key>scale9Paddings</key>
+                <rect>25,24,49,49</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -2597,6 +2630,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">main/slider.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>63,5,125,11</rect>
+                <key>scale9Paddings</key>
+                <rect>63,5,125,11</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">main/small-box-hover.png</key>
             <key type="filename">main/small-box.png</key>
             <struct type="IndividualSpriteSettings">
@@ -2756,6 +2804,38 @@
                 <rect>35,33,70,65</rect>
                 <key>scale9Paddings</key>
                 <rect>35,33,70,65</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">main/switcher-borderless.png</key>
+            <key type="filename">main/switcher-selected.png</key>
+            <key type="filename">main/switcher-unselected.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>35,14,70,28</rect>
+                <key>scale9Paddings</key>
+                <rect>35,14,70,28</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">main/switcher-divider.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>1,12,1,24</rect>
+                <key>scale9Paddings</key>
+                <rect>1,12,1,24</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
