@@ -455,26 +455,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">stampbook/colour/1.png</key>
-            <key type="filename">stampbook/colour/2.png</key>
-            <key type="filename">stampbook/colour/3.png</key>
-            <key type="filename">stampbook/colour/4.png</key>
-            <key type="filename">stampbook/colour/5.png</key>
-            <key type="filename">stampbook/colour/6.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>332,190,664,379</rect>
-                <key>scale9Paddings</key>
-                <rect>332,190,664,379</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">stampbook/contents-instruct.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -1016,40 +996,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">stampbook/pattern/1.png</key>
-            <key type="filename">stampbook/pattern/2.png</key>
-            <key type="filename">stampbook/pattern/3.png</key>
-            <key type="filename">stampbook/pattern/5.png</key>
-            <key type="filename">stampbook/pattern/6.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>327,185,655,369</rect>
-                <key>scale9Paddings</key>
-                <rect>327,185,655,369</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">stampbook/pattern/4.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>295,175,590,349</rect>
-                <key>scale9Paddings</key>
-                <rect>295,175,590,349</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">stampbook/polaroid1-bg.png</key>
             <key type="filename">stampbook/polaroid3-bg.png</key>
             <struct type="IndividualSpriteSettings">
@@ -1220,21 +1166,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">stampbook/wordmark.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>57,37,114,75</rect>
-                <key>scale9Paddings</key>
-                <rect>57,37,114,75</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
         </map>
         <key>fileList</key>
         <array>
@@ -1246,7 +1177,6 @@
             <filename>stampbook/close-active.png</filename>
             <filename>stampbook/close-hover.png</filename>
             <filename>stampbook/close.png</filename>
-            <filename>stampbook/colour</filename>
             <filename>stampbook/contents-instruct.png</filename>
             <filename>stampbook/dividers.png</filename>
             <filename>stampbook/edit-hover.png</filename>
@@ -1263,7 +1193,6 @@
             <filename>stampbook/page_forward-hover.png</filename>
             <filename>stampbook/page_forward.png</filename>
             <filename>stampbook/pagebgs</filename>
-            <filename>stampbook/pattern</filename>
             <filename>stampbook/polaroid1-bg.png</filename>
             <filename>stampbook/polaroid1.png</filename>
             <filename>stampbook/polaroid2-bg.png</filename>
@@ -1277,7 +1206,6 @@
             <filename>stampbook/sidebutton-hover.png</filename>
             <filename>stampbook/sidebutton.png</filename>
             <filename>stampbook/thumbs</filename>
-            <filename>stampbook/wordmark.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
