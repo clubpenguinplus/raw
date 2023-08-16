@@ -246,23 +246,6 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">soundstudio/dance_icons.png</key>
-            <key type="filename">soundstudio/pop_icons.png</key>
-            <key type="filename">soundstudio/rock_icons.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>280,167,559,335</rect>
-                <key>scale9Paddings</key>
-                <rect>280,167,559,335</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
             <key type="filename">soundstudio/dividers.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -278,8 +261,206 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">soundstudio/dubstep_icons.png</key>
-            <key type="filename">soundstudio/spooky_icons.png</key>
+            <key type="filename">soundstudio/icons/dance/0_0.png</key>
+            <key type="filename">soundstudio/icons/dance/0_1.png</key>
+            <key type="filename">soundstudio/icons/dance/0_2.png</key>
+            <key type="filename">soundstudio/icons/dance/0_3.png</key>
+            <key type="filename">soundstudio/icons/dance/0_4.png</key>
+            <key type="filename">soundstudio/icons/dance/1_0.png</key>
+            <key type="filename">soundstudio/icons/dance/1_1.png</key>
+            <key type="filename">soundstudio/icons/dance/1_2.png</key>
+            <key type="filename">soundstudio/icons/dance/1_3.png</key>
+            <key type="filename">soundstudio/icons/dance/1_4.png</key>
+            <key type="filename">soundstudio/icons/dance/2_0.png</key>
+            <key type="filename">soundstudio/icons/dance/2_1.png</key>
+            <key type="filename">soundstudio/icons/dance/2_2.png</key>
+            <key type="filename">soundstudio/icons/dance/2_3.png</key>
+            <key type="filename">soundstudio/icons/dance/2_4.png</key>
+            <key type="filename">soundstudio/icons/dance/3_0.png</key>
+            <key type="filename">soundstudio/icons/dance/3_1.png</key>
+            <key type="filename">soundstudio/icons/dance/3_2.png</key>
+            <key type="filename">soundstudio/icons/dance/3_3.png</key>
+            <key type="filename">soundstudio/icons/dance/3_4.png</key>
+            <key type="filename">soundstudio/icons/dance/4_0.png</key>
+            <key type="filename">soundstudio/icons/dance/4_1.png</key>
+            <key type="filename">soundstudio/icons/dance/4_2.png</key>
+            <key type="filename">soundstudio/icons/dance/4_3.png</key>
+            <key type="filename">soundstudio/icons/dance/4_4.png</key>
+            <key type="filename">soundstudio/icons/dance/5_0.png</key>
+            <key type="filename">soundstudio/icons/dance/5_1.png</key>
+            <key type="filename">soundstudio/icons/dance/5_2.png</key>
+            <key type="filename">soundstudio/icons/dance/5_3.png</key>
+            <key type="filename">soundstudio/icons/dance/5_4.png</key>
+            <key type="filename">soundstudio/icons/dance/6_0.png</key>
+            <key type="filename">soundstudio/icons/dance/6_1.png</key>
+            <key type="filename">soundstudio/icons/dance/6_2.png</key>
+            <key type="filename">soundstudio/icons/dance/6_3.png</key>
+            <key type="filename">soundstudio/icons/dance/6_4.png</key>
+            <key type="filename">soundstudio/icons/dance/7_0.png</key>
+            <key type="filename">soundstudio/icons/dance/7_1.png</key>
+            <key type="filename">soundstudio/icons/dance/7_2.png</key>
+            <key type="filename">soundstudio/icons/dance/7_3.png</key>
+            <key type="filename">soundstudio/icons/dance/7_4.png</key>
+            <key type="filename">soundstudio/icons/dubstep/0_0.png</key>
+            <key type="filename">soundstudio/icons/dubstep/0_1.png</key>
+            <key type="filename">soundstudio/icons/dubstep/0_2.png</key>
+            <key type="filename">soundstudio/icons/dubstep/0_3.png</key>
+            <key type="filename">soundstudio/icons/dubstep/0_4.png</key>
+            <key type="filename">soundstudio/icons/dubstep/1_0.png</key>
+            <key type="filename">soundstudio/icons/dubstep/1_1.png</key>
+            <key type="filename">soundstudio/icons/dubstep/1_2.png</key>
+            <key type="filename">soundstudio/icons/dubstep/1_3.png</key>
+            <key type="filename">soundstudio/icons/dubstep/1_4.png</key>
+            <key type="filename">soundstudio/icons/dubstep/2_0.png</key>
+            <key type="filename">soundstudio/icons/dubstep/2_1.png</key>
+            <key type="filename">soundstudio/icons/dubstep/2_2.png</key>
+            <key type="filename">soundstudio/icons/dubstep/2_3.png</key>
+            <key type="filename">soundstudio/icons/dubstep/2_4.png</key>
+            <key type="filename">soundstudio/icons/dubstep/3_0.png</key>
+            <key type="filename">soundstudio/icons/dubstep/3_1.png</key>
+            <key type="filename">soundstudio/icons/dubstep/3_2.png</key>
+            <key type="filename">soundstudio/icons/dubstep/3_3.png</key>
+            <key type="filename">soundstudio/icons/dubstep/3_4.png</key>
+            <key type="filename">soundstudio/icons/dubstep/4_0.png</key>
+            <key type="filename">soundstudio/icons/dubstep/4_1.png</key>
+            <key type="filename">soundstudio/icons/dubstep/4_2.png</key>
+            <key type="filename">soundstudio/icons/dubstep/4_3.png</key>
+            <key type="filename">soundstudio/icons/dubstep/4_4.png</key>
+            <key type="filename">soundstudio/icons/dubstep/5_0.png</key>
+            <key type="filename">soundstudio/icons/dubstep/5_1.png</key>
+            <key type="filename">soundstudio/icons/dubstep/5_2.png</key>
+            <key type="filename">soundstudio/icons/dubstep/5_3.png</key>
+            <key type="filename">soundstudio/icons/dubstep/5_4.png</key>
+            <key type="filename">soundstudio/icons/dubstep/6_0.png</key>
+            <key type="filename">soundstudio/icons/dubstep/6_1.png</key>
+            <key type="filename">soundstudio/icons/dubstep/6_2.png</key>
+            <key type="filename">soundstudio/icons/dubstep/6_3.png</key>
+            <key type="filename">soundstudio/icons/dubstep/6_4.png</key>
+            <key type="filename">soundstudio/icons/dubstep/7_0.png</key>
+            <key type="filename">soundstudio/icons/dubstep/7_1.png</key>
+            <key type="filename">soundstudio/icons/dubstep/7_2.png</key>
+            <key type="filename">soundstudio/icons/dubstep/7_3.png</key>
+            <key type="filename">soundstudio/icons/dubstep/7_4.png</key>
+            <key type="filename">soundstudio/icons/pop/0_0.png</key>
+            <key type="filename">soundstudio/icons/pop/0_1.png</key>
+            <key type="filename">soundstudio/icons/pop/0_2.png</key>
+            <key type="filename">soundstudio/icons/pop/0_3.png</key>
+            <key type="filename">soundstudio/icons/pop/0_4.png</key>
+            <key type="filename">soundstudio/icons/pop/1_0.png</key>
+            <key type="filename">soundstudio/icons/pop/1_1.png</key>
+            <key type="filename">soundstudio/icons/pop/1_2.png</key>
+            <key type="filename">soundstudio/icons/pop/1_3.png</key>
+            <key type="filename">soundstudio/icons/pop/1_4.png</key>
+            <key type="filename">soundstudio/icons/pop/2_0.png</key>
+            <key type="filename">soundstudio/icons/pop/2_1.png</key>
+            <key type="filename">soundstudio/icons/pop/2_2.png</key>
+            <key type="filename">soundstudio/icons/pop/2_3.png</key>
+            <key type="filename">soundstudio/icons/pop/2_4.png</key>
+            <key type="filename">soundstudio/icons/pop/3_0.png</key>
+            <key type="filename">soundstudio/icons/pop/3_1.png</key>
+            <key type="filename">soundstudio/icons/pop/3_2.png</key>
+            <key type="filename">soundstudio/icons/pop/3_3.png</key>
+            <key type="filename">soundstudio/icons/pop/3_4.png</key>
+            <key type="filename">soundstudio/icons/pop/4_0.png</key>
+            <key type="filename">soundstudio/icons/pop/4_1.png</key>
+            <key type="filename">soundstudio/icons/pop/4_2.png</key>
+            <key type="filename">soundstudio/icons/pop/4_3.png</key>
+            <key type="filename">soundstudio/icons/pop/4_4.png</key>
+            <key type="filename">soundstudio/icons/pop/5_0.png</key>
+            <key type="filename">soundstudio/icons/pop/5_1.png</key>
+            <key type="filename">soundstudio/icons/pop/5_2.png</key>
+            <key type="filename">soundstudio/icons/pop/5_3.png</key>
+            <key type="filename">soundstudio/icons/pop/5_4.png</key>
+            <key type="filename">soundstudio/icons/pop/6_0.png</key>
+            <key type="filename">soundstudio/icons/pop/6_1.png</key>
+            <key type="filename">soundstudio/icons/pop/6_2.png</key>
+            <key type="filename">soundstudio/icons/pop/6_3.png</key>
+            <key type="filename">soundstudio/icons/pop/6_4.png</key>
+            <key type="filename">soundstudio/icons/pop/7_0.png</key>
+            <key type="filename">soundstudio/icons/pop/7_1.png</key>
+            <key type="filename">soundstudio/icons/pop/7_2.png</key>
+            <key type="filename">soundstudio/icons/pop/7_3.png</key>
+            <key type="filename">soundstudio/icons/pop/7_4.png</key>
+            <key type="filename">soundstudio/icons/rock/0_0.png</key>
+            <key type="filename">soundstudio/icons/rock/0_1.png</key>
+            <key type="filename">soundstudio/icons/rock/0_2.png</key>
+            <key type="filename">soundstudio/icons/rock/0_3.png</key>
+            <key type="filename">soundstudio/icons/rock/0_4.png</key>
+            <key type="filename">soundstudio/icons/rock/1_0.png</key>
+            <key type="filename">soundstudio/icons/rock/1_1.png</key>
+            <key type="filename">soundstudio/icons/rock/1_2.png</key>
+            <key type="filename">soundstudio/icons/rock/1_3.png</key>
+            <key type="filename">soundstudio/icons/rock/1_4.png</key>
+            <key type="filename">soundstudio/icons/rock/2_0.png</key>
+            <key type="filename">soundstudio/icons/rock/2_1.png</key>
+            <key type="filename">soundstudio/icons/rock/2_2.png</key>
+            <key type="filename">soundstudio/icons/rock/2_3.png</key>
+            <key type="filename">soundstudio/icons/rock/2_4.png</key>
+            <key type="filename">soundstudio/icons/rock/3_0.png</key>
+            <key type="filename">soundstudio/icons/rock/3_1.png</key>
+            <key type="filename">soundstudio/icons/rock/3_2.png</key>
+            <key type="filename">soundstudio/icons/rock/3_3.png</key>
+            <key type="filename">soundstudio/icons/rock/3_4.png</key>
+            <key type="filename">soundstudio/icons/rock/4_0.png</key>
+            <key type="filename">soundstudio/icons/rock/4_1.png</key>
+            <key type="filename">soundstudio/icons/rock/4_2.png</key>
+            <key type="filename">soundstudio/icons/rock/4_3.png</key>
+            <key type="filename">soundstudio/icons/rock/4_4.png</key>
+            <key type="filename">soundstudio/icons/rock/5_0.png</key>
+            <key type="filename">soundstudio/icons/rock/5_1.png</key>
+            <key type="filename">soundstudio/icons/rock/5_2.png</key>
+            <key type="filename">soundstudio/icons/rock/5_3.png</key>
+            <key type="filename">soundstudio/icons/rock/5_4.png</key>
+            <key type="filename">soundstudio/icons/rock/6_0.png</key>
+            <key type="filename">soundstudio/icons/rock/6_1.png</key>
+            <key type="filename">soundstudio/icons/rock/6_2.png</key>
+            <key type="filename">soundstudio/icons/rock/6_3.png</key>
+            <key type="filename">soundstudio/icons/rock/6_4.png</key>
+            <key type="filename">soundstudio/icons/rock/7_0.png</key>
+            <key type="filename">soundstudio/icons/rock/7_1.png</key>
+            <key type="filename">soundstudio/icons/rock/7_2.png</key>
+            <key type="filename">soundstudio/icons/rock/7_3.png</key>
+            <key type="filename">soundstudio/icons/rock/7_4.png</key>
+            <key type="filename">soundstudio/icons/spooky/0_0.png</key>
+            <key type="filename">soundstudio/icons/spooky/0_1.png</key>
+            <key type="filename">soundstudio/icons/spooky/0_2.png</key>
+            <key type="filename">soundstudio/icons/spooky/0_3.png</key>
+            <key type="filename">soundstudio/icons/spooky/0_4.png</key>
+            <key type="filename">soundstudio/icons/spooky/1_0.png</key>
+            <key type="filename">soundstudio/icons/spooky/1_1.png</key>
+            <key type="filename">soundstudio/icons/spooky/1_2.png</key>
+            <key type="filename">soundstudio/icons/spooky/1_3.png</key>
+            <key type="filename">soundstudio/icons/spooky/1_4.png</key>
+            <key type="filename">soundstudio/icons/spooky/2_0.png</key>
+            <key type="filename">soundstudio/icons/spooky/2_1.png</key>
+            <key type="filename">soundstudio/icons/spooky/2_2.png</key>
+            <key type="filename">soundstudio/icons/spooky/2_3.png</key>
+            <key type="filename">soundstudio/icons/spooky/2_4.png</key>
+            <key type="filename">soundstudio/icons/spooky/3_0.png</key>
+            <key type="filename">soundstudio/icons/spooky/3_1.png</key>
+            <key type="filename">soundstudio/icons/spooky/3_2.png</key>
+            <key type="filename">soundstudio/icons/spooky/3_3.png</key>
+            <key type="filename">soundstudio/icons/spooky/3_4.png</key>
+            <key type="filename">soundstudio/icons/spooky/4_0.png</key>
+            <key type="filename">soundstudio/icons/spooky/4_1.png</key>
+            <key type="filename">soundstudio/icons/spooky/4_2.png</key>
+            <key type="filename">soundstudio/icons/spooky/4_3.png</key>
+            <key type="filename">soundstudio/icons/spooky/4_4.png</key>
+            <key type="filename">soundstudio/icons/spooky/5_0.png</key>
+            <key type="filename">soundstudio/icons/spooky/5_1.png</key>
+            <key type="filename">soundstudio/icons/spooky/5_2.png</key>
+            <key type="filename">soundstudio/icons/spooky/5_3.png</key>
+            <key type="filename">soundstudio/icons/spooky/5_4.png</key>
+            <key type="filename">soundstudio/icons/spooky/6_0.png</key>
+            <key type="filename">soundstudio/icons/spooky/6_1.png</key>
+            <key type="filename">soundstudio/icons/spooky/6_2.png</key>
+            <key type="filename">soundstudio/icons/spooky/6_3.png</key>
+            <key type="filename">soundstudio/icons/spooky/6_4.png</key>
+            <key type="filename">soundstudio/icons/spooky/7_0.png</key>
+            <key type="filename">soundstudio/icons/spooky/7_1.png</key>
+            <key type="filename">soundstudio/icons/spooky/7_2.png</key>
+            <key type="filename">soundstudio/icons/spooky/7_3.png</key>
+            <key type="filename">soundstudio/icons/spooky/7_4.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -288,9 +469,9 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>280,166,559,333</rect>
+                <rect>38,38,75,75</rect>
                 <key>scale9Paddings</key>
-                <rect>280,166,559,333</rect>
+                <rect>38,38,75,75</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -440,6 +621,134 @@
                 <rect>292,20,584,40</rect>
                 <key>scale9Paddings</key>
                 <rect>292,20,584,40</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/prompts/instructions/arrow-active.png</key>
+            <key type="filename">soundstudio/prompts/instructions/arrow-hover.png</key>
+            <key type="filename">soundstudio/prompts/instructions/arrow.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>21,19,42,37</rect>
+                <key>scale9Paddings</key>
+                <rect>21,19,42,37</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/prompts/instructions/ball.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>12,12,24,24</rect>
+                <key>scale9Paddings</key>
+                <rect>12,12,24,24</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/prompts/instructions/circles.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>71,12,141,25</rect>
+                <key>scale9Paddings</key>
+                <rect>71,12,141,25</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/prompts/instructions/overlay0002.png</key>
+            <key type="filename">soundstudio/prompts/instructions/overlay0003.png</key>
+            <key type="filename">soundstudio/prompts/instructions/overlay0004.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>377,238,754,475</rect>
+                <key>scale9Paddings</key>
+                <rect>377,238,754,475</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/prompts/save/bg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>178,123,355,247</rect>
+                <key>scale9Paddings</key>
+                <rect>178,123,355,247</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/prompts/save/button-active.png</key>
+            <key type="filename">soundstudio/prompts/save/button-hover.png</key>
+            <key type="filename">soundstudio/prompts/save/button.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>68,20,135,40</rect>
+                <key>scale9Paddings</key>
+                <rect>68,20,135,40</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/prompts/save/close-btn-active.png</key>
+            <key type="filename">soundstudio/prompts/save/close-btn-hover.png</key>
+            <key type="filename">soundstudio/prompts/save/close-btn.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>21,21,43,43</rect>
+                <key>scale9Paddings</key>
+                <rect>21,21,43,43</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">soundstudio/prompts/save/songNameInput.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>165,21,329,42</rect>
+                <key>scale9Paddings</key>
+                <rect>165,21,329,42</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -2867,6 +3176,7 @@
             <key type="filename">soundstudio/waveforms/five0076.png</key>
             <key type="filename">soundstudio/waveforms/five0077.png</key>
             <key type="filename">soundstudio/waveforms/five0078.png</key>
+            <key type="filename">soundstudio/waveforms/forty0003.png</key>
             <key type="filename">soundstudio/waveforms/fourteen0049.png</key>
             <key type="filename">soundstudio/waveforms/fourteen0050.png</key>
             <key type="filename">soundstudio/waveforms/fourteen0051.png</key>
