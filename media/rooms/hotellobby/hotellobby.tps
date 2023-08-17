@@ -881,6 +881,75 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">hotellobby/smoothieAnim0001.png</key>
+            <key type="filename">hotellobby/smoothieAnim0002.png</key>
+            <key type="filename">hotellobby/smoothieAnim0003.png</key>
+            <key type="filename">hotellobby/smoothieAnim0004.png</key>
+            <key type="filename">hotellobby/smoothieAnim0005.png</key>
+            <key type="filename">hotellobby/smoothieAnim0006.png</key>
+            <key type="filename">hotellobby/smoothieAnim0007.png</key>
+            <key type="filename">hotellobby/smoothieAnim0008.png</key>
+            <key type="filename">hotellobby/smoothieAnim0009.png</key>
+            <key type="filename">hotellobby/smoothieAnim0010.png</key>
+            <key type="filename">hotellobby/smoothieAnim0011.png</key>
+            <key type="filename">hotellobby/smoothieAnim0012.png</key>
+            <key type="filename">hotellobby/smoothieAnim0013.png</key>
+            <key type="filename">hotellobby/smoothieAnim0014.png</key>
+            <key type="filename">hotellobby/smoothieAnim0015.png</key>
+            <key type="filename">hotellobby/smoothieAnim0016.png</key>
+            <key type="filename">hotellobby/smoothieAnim0017.png</key>
+            <key type="filename">hotellobby/smoothieAnim0018.png</key>
+            <key type="filename">hotellobby/smoothieAnim0019.png</key>
+            <key type="filename">hotellobby/smoothieAnim0020.png</key>
+            <key type="filename">hotellobby/smoothieAnim0021.png</key>
+            <key type="filename">hotellobby/smoothieAnim0022.png</key>
+            <key type="filename">hotellobby/smoothieAnim0023.png</key>
+            <key type="filename">hotellobby/smoothieAnim0024.png</key>
+            <key type="filename">hotellobby/smoothieAnim0025.png</key>
+            <key type="filename">hotellobby/smoothieAnim0026.png</key>
+            <key type="filename">hotellobby/smoothieAnim0027.png</key>
+            <key type="filename">hotellobby/smoothieAnim0028.png</key>
+            <key type="filename">hotellobby/smoothieAnim0029.png</key>
+            <key type="filename">hotellobby/smoothieAnim0030.png</key>
+            <key type="filename">hotellobby/smoothieAnim0031.png</key>
+            <key type="filename">hotellobby/smoothieAnim0032.png</key>
+            <key type="filename">hotellobby/smoothieAnim0033.png</key>
+            <key type="filename">hotellobby/smoothieAnim0034.png</key>
+            <key type="filename">hotellobby/smoothieAnim0035.png</key>
+            <key type="filename">hotellobby/smoothieAnim0036.png</key>
+            <key type="filename">hotellobby/smoothieAnim0037.png</key>
+            <key type="filename">hotellobby/smoothieAnim0038.png</key>
+            <key type="filename">hotellobby/smoothieAnim0039.png</key>
+            <key type="filename">hotellobby/smoothieAnim0040.png</key>
+            <key type="filename">hotellobby/smoothieAnim0041.png</key>
+            <key type="filename">hotellobby/smoothieAnim0042.png</key>
+            <key type="filename">hotellobby/smoothieAnim0043.png</key>
+            <key type="filename">hotellobby/smoothieAnim0044.png</key>
+            <key type="filename">hotellobby/smoothieAnim0045.png</key>
+            <key type="filename">hotellobby/smoothieAnim0046.png</key>
+            <key type="filename">hotellobby/smoothieAnim0047.png</key>
+            <key type="filename">hotellobby/smoothieAnim0048.png</key>
+            <key type="filename">hotellobby/smoothieAnim0049.png</key>
+            <key type="filename">hotellobby/smoothieAnim0050.png</key>
+            <key type="filename">hotellobby/smoothieAnim0051.png</key>
+            <key type="filename">hotellobby/smoothieAnim0052.png</key>
+            <key type="filename">hotellobby/smoothieAnim0053.png</key>
+            <key type="filename">hotellobby/smoothieAnim0054.png</key>
+            <key type="filename">hotellobby/smoothieAnim0055.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>175,83,349,165</rect>
+                <key>scale9Paddings</key>
+                <rect>175,83,349,165</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">hotellobby/sofa.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
