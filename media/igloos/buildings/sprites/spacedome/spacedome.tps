@@ -190,12 +190,32 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">door-active.png</key>
+            <key type="filename">door-hover.png</key>
+            <key type="filename">door.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>51,60,101,121</rect>
+                <key>scale9Paddings</key>
+                <rect>51,60,101,121</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
         </map>
         <key>fileList</key>
         <array>
             <filename>bg-lower.png</filename>
             <filename>bg-upper.png</filename>
             <filename>fg.png</filename>
+            <filename>door-active.png</filename>
+            <filename>door-hover.png</filename>
+            <filename>door.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

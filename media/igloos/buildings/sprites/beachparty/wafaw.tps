@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../../../../../client/client/media/igloos/buildings/sprites/treehouse/treehouse.json</filename>
+                <filename></filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -172,31 +172,9 @@
             <false/>
         </struct>
         <key>individualSpriteSettings</key>
-        <map type="IndividualSpriteSettingsMap">
-            <key type="filename">bg-lower.png</key>
-            <key type="filename">bg-upper.png</key>
-            <key type="filename">fg.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>380,240,760,480</rect>
-                <key>scale9Paddings</key>
-                <rect>380,240,760,480</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-        </map>
+        <map type="IndividualSpriteSettingsMap"/>
         <key>fileList</key>
-        <array>
-            <filename>bg-lower.png</filename>
-            <filename>bg-upper.png</filename>
-            <filename>fg.png</filename>
-        </array>
+        <array/>
         <key>ignoreFileList</key>
         <array/>
         <key>replaceList</key>

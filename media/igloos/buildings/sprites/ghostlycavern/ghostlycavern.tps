@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../../../../../client/client/media/igloos/buildings/sprites/circus/circus.json</filename>
+                <filename>../../../../../../client/client/media/igloos/buildings/sprites/ghostlycavern/ghostlycavern.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -172,9 +172,47 @@
             <false/>
         </struct>
         <key>individualSpriteSettings</key>
-        <map type="IndividualSpriteSettingsMap"/>
+        <map type="IndividualSpriteSettingsMap">
+            <key type="filename">bg.png</key>
+            <key type="filename">fg.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>380,240,760,480</rect>
+                <key>scale9Paddings</key>
+                <rect>380,240,760,480</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">door-hover.png</key>
+            <key type="filename">door.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>39,58,79,116</rect>
+                <key>scale9Paddings</key>
+                <rect>39,58,79,116</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+        </map>
         <key>fileList</key>
-        <array/>
+        <array>
+            <filename>bg.png</filename>
+            <filename>door-hover.png</filename>
+            <filename>door.png</filename>
+            <filename>fg.png</filename>
+        </array>
         <key>ignoreFileList</key>
         <array/>
         <key>replaceList</key>
