@@ -1,0 +1,252 @@
+{
+    "width": 1520,
+    "height": 760,
+    "children":{
+        "interface_mc":{
+            "x": 0,
+            "y": 0,
+            "type": "button"
+        },
+        "dance_btn":{
+            "x": 0,
+            "y": 0,
+            "type": "button"
+        },
+        "triggers_mc": {
+            "children":{
+                "cave_mc":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "dance_mc":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                }
+            },
+            "type": "container"
+        },
+        "drawers_mc":{
+            "children":{
+                "cab4_mc":{
+                    "x": 0,
+                    "y": 0,
+                    "frames": 9,
+                    "type": "animation"
+                },
+                "cabs":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                }
+            },
+            "type": "container"
+        },
+        "background_mc":{
+            "children":{
+                "layer_1":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_2":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_3":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_4":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_7":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_8":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_26":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_27":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_94":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_100":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_101":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_102":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_103":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_104":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_105":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_106":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_107":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_108":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_109":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_110":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_111":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_112":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_113":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_114":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_115":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_116":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_117":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_118":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_119":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_120":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_121":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_122":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_123":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_124":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_125":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_126":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_127":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_128":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                },
+                "layer_129":{
+                    "x": 0,
+                    "y": 0,
+                    "type": "graphic"
+                }
+            },
+            "type": "container"
+        },
+        "block_mc":{
+            "x": 0,
+            "y": 0,
+            "type": "graphic"
+        }
+    }
+}
