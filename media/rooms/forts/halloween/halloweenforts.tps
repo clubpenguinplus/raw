@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../../../../client/client/media/rooms/school/school.json</filename>
+                <filename>../../../../../client/client/media/rooms/forts/forts.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -173,26 +173,21 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">arrows.png</key>
-            <key type="filename">benches.png</key>
             <key type="filename">bg.png</key>
-            <key type="filename">bookshelf.png</key>
-            <key type="filename">cage.png</key>
+            <key type="filename">bush.png</key>
             <key type="filename">fg.png</key>
-            <key type="filename">idkwhatthisis.png</key>
-            <key type="filename">pillar.png</key>
-            <key type="filename">railings.png</key>
-            <key type="filename">skelebob.png</key>
-            <key type="filename">stools.png</key>
-            <key type="filename">stoolsrow2.png</key>
-            <key type="filename">support.png</key>
-            <key type="filename">supports.png</key>
-            <key type="filename">table1.png</key>
-            <key type="filename">table2.png</key>
-            <key type="filename">tables.png</key>
-            <key type="filename">tablesrow2.png</key>
-            <key type="filename">woodthing.png</key>
-            <key type="filename">woodthingback.png</key>
+            <key type="filename">grave.png</key>
+            <key type="filename">grave2.png</key>
+            <key type="filename">gremlin.png</key>
+            <key type="filename">gremlin2.png</key>
+            <key type="filename">house1.png</key>
+            <key type="filename">house2.png</key>
+            <key type="filename">house3.png</key>
+            <key type="filename">house4.png</key>
+            <key type="filename">pool.png</key>
+            <key type="filename">pumpkman.png</key>
+            <key type="filename">what.png</key>
+            <key type="filename">what2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -207,9 +202,16 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">door-active.png</key>
-            <key type="filename">door-hover.png</key>
-            <key type="filename">door.png</key>
+            <key type="filename">fountain0001.png</key>
+            <key type="filename">fountain0002.png</key>
+            <key type="filename">fountain0003.png</key>
+            <key type="filename">fountain0004.png</key>
+            <key type="filename">fountain0005.png</key>
+            <key type="filename">fountain0006.png</key>
+            <key type="filename">fountain0007.png</key>
+            <key type="filename">fountain0008.png</key>
+            <key type="filename">fountain0009.png</key>
+            <key type="filename">fountain0010.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -218,54 +220,40 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>69,235,137,469</rect>
+                <rect>27,48,53,97</rect>
                 <key>scale9Paddings</key>
-                <rect>69,235,137,469</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">doorframe.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>61,198,121,396</rect>
-                <key>scale9Paddings</key>
-                <rect>61,198,121,396</rect>
+                <rect>27,48,53,97</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>arrows.png</filename>
-            <filename>benches.png</filename>
             <filename>bg.png</filename>
-            <filename>bookshelf.png</filename>
-            <filename>cage.png</filename>
-            <filename>door-active.png</filename>
-            <filename>door-hover.png</filename>
-            <filename>door.png</filename>
-            <filename>doorframe.png</filename>
+            <filename>bush.png</filename>
             <filename>fg.png</filename>
-            <filename>idkwhatthisis.png</filename>
-            <filename>pillar.png</filename>
-            <filename>railings.png</filename>
-            <filename>skelebob.png</filename>
-            <filename>stools.png</filename>
-            <filename>stoolsrow2.png</filename>
-            <filename>support.png</filename>
-            <filename>supports.png</filename>
-            <filename>table1.png</filename>
-            <filename>table2.png</filename>
-            <filename>tables.png</filename>
-            <filename>tablesrow2.png</filename>
-            <filename>woodthing.png</filename>
-            <filename>woodthingback.png</filename>
+            <filename>fountain0001.png</filename>
+            <filename>fountain0002.png</filename>
+            <filename>fountain0003.png</filename>
+            <filename>fountain0004.png</filename>
+            <filename>fountain0005.png</filename>
+            <filename>fountain0006.png</filename>
+            <filename>fountain0007.png</filename>
+            <filename>fountain0008.png</filename>
+            <filename>fountain0009.png</filename>
+            <filename>fountain0010.png</filename>
+            <filename>grave.png</filename>
+            <filename>grave2.png</filename>
+            <filename>gremlin.png</filename>
+            <filename>gremlin2.png</filename>
+            <filename>house1.png</filename>
+            <filename>house2.png</filename>
+            <filename>house3.png</filename>
+            <filename>house4.png</filename>
+            <filename>pool.png</filename>
+            <filename>pumpkman.png</filename>
+            <filename>what.png</filename>
+            <filename>what2.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

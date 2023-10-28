@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../../../../client/client/media/rooms/school/school.json</filename>
+                <filename>../../../../../client/client/media/rooms/rink/rink.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -173,26 +173,36 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">arrows.png</key>
-            <key type="filename">benches.png</key>
+            <key type="filename">arrow.png</key>
+            <key type="filename">arrow2.png</key>
             <key type="filename">bg.png</key>
-            <key type="filename">bookshelf.png</key>
-            <key type="filename">cage.png</key>
+            <key type="filename">bush.png</key>
+            <key type="filename">bush2.png</key>
+            <key type="filename">bush3.png</key>
+            <key type="filename">bush4.png</key>
             <key type="filename">fg.png</key>
-            <key type="filename">idkwhatthisis.png</key>
-            <key type="filename">pillar.png</key>
-            <key type="filename">railings.png</key>
-            <key type="filename">skelebob.png</key>
-            <key type="filename">stools.png</key>
-            <key type="filename">stoolsrow2.png</key>
-            <key type="filename">support.png</key>
-            <key type="filename">supports.png</key>
-            <key type="filename">table1.png</key>
-            <key type="filename">table2.png</key>
-            <key type="filename">tables.png</key>
-            <key type="filename">tablesrow2.png</key>
-            <key type="filename">woodthing.png</key>
-            <key type="filename">woodthingback.png</key>
+            <key type="filename">house1.png</key>
+            <key type="filename">house1_front.png</key>
+            <key type="filename">house1_porch.png</key>
+            <key type="filename">house2.png</key>
+            <key type="filename">house3.png</key>
+            <key type="filename">lamp2.png</key>
+            <key type="filename">lampere.png</key>
+            <key type="filename">picket.png</key>
+            <key type="filename">picket2.png</key>
+            <key type="filename">picket3.png</key>
+            <key type="filename">picket4.png</key>
+            <key type="filename">picket5.png</key>
+            <key type="filename">pole.png</key>
+            <key type="filename">pole2.png</key>
+            <key type="filename">pole3.png</key>
+            <key type="filename">pole4.png</key>
+            <key type="filename">scarytree.png</key>
+            <key type="filename">swingback.png</key>
+            <key type="filename">swingfrontleft.png</key>
+            <key type="filename">swingfrontright.png</key>
+            <key type="filename">swingseatleft.png</key>
+            <key type="filename">swingseatright.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -204,68 +214,42 @@
                 <rect>380,240,760,480</rect>
                 <key>scale9Paddings</key>
                 <rect>380,240,760,480</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">door-active.png</key>
-            <key type="filename">door-hover.png</key>
-            <key type="filename">door.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>69,235,137,469</rect>
-                <key>scale9Paddings</key>
-                <rect>69,235,137,469</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">doorframe.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>61,198,121,396</rect>
-                <key>scale9Paddings</key>
-                <rect>61,198,121,396</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>arrows.png</filename>
-            <filename>benches.png</filename>
+            <filename>arrow.png</filename>
+            <filename>arrow2.png</filename>
             <filename>bg.png</filename>
-            <filename>bookshelf.png</filename>
-            <filename>cage.png</filename>
-            <filename>door-active.png</filename>
-            <filename>door-hover.png</filename>
-            <filename>door.png</filename>
-            <filename>doorframe.png</filename>
+            <filename>bush.png</filename>
+            <filename>bush2.png</filename>
+            <filename>bush3.png</filename>
+            <filename>bush4.png</filename>
             <filename>fg.png</filename>
-            <filename>idkwhatthisis.png</filename>
-            <filename>pillar.png</filename>
-            <filename>railings.png</filename>
-            <filename>skelebob.png</filename>
-            <filename>stools.png</filename>
-            <filename>stoolsrow2.png</filename>
-            <filename>support.png</filename>
-            <filename>supports.png</filename>
-            <filename>table1.png</filename>
-            <filename>table2.png</filename>
-            <filename>tables.png</filename>
-            <filename>tablesrow2.png</filename>
-            <filename>woodthing.png</filename>
-            <filename>woodthingback.png</filename>
+            <filename>house1.png</filename>
+            <filename>house1_front.png</filename>
+            <filename>house1_porch.png</filename>
+            <filename>house2.png</filename>
+            <filename>house3.png</filename>
+            <filename>lamp2.png</filename>
+            <filename>lampere.png</filename>
+            <filename>picket.png</filename>
+            <filename>picket2.png</filename>
+            <filename>picket3.png</filename>
+            <filename>picket4.png</filename>
+            <filename>picket5.png</filename>
+            <filename>pole.png</filename>
+            <filename>pole2.png</filename>
+            <filename>pole3.png</filename>
+            <filename>pole4.png</filename>
+            <filename>scarytree.png</filename>
+            <filename>swingback.png</filename>
+            <filename>swingfrontleft.png</filename>
+            <filename>swingfrontright.png</filename>
+            <filename>swingseatleft.png</filename>
+            <filename>swingseatright.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../../../../client/client/media/rooms/school/school.json</filename>
+                <filename>../../../../../client/client/media/rooms/plaza/plaza.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -173,26 +173,15 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">arrows.png</key>
-            <key type="filename">benches.png</key>
+            <key type="filename">arrow.png</key>
             <key type="filename">bg.png</key>
-            <key type="filename">bookshelf.png</key>
-            <key type="filename">cage.png</key>
-            <key type="filename">fg.png</key>
-            <key type="filename">idkwhatthisis.png</key>
-            <key type="filename">pillar.png</key>
-            <key type="filename">railings.png</key>
-            <key type="filename">skelebob.png</key>
-            <key type="filename">stools.png</key>
-            <key type="filename">stoolsrow2.png</key>
-            <key type="filename">support.png</key>
-            <key type="filename">supports.png</key>
-            <key type="filename">table1.png</key>
-            <key type="filename">table2.png</key>
-            <key type="filename">tables.png</key>
-            <key type="filename">tablesrow2.png</key>
-            <key type="filename">woodthing.png</key>
-            <key type="filename">woodthingback.png</key>
+            <key type="filename">puffles.png</key>
+            <key type="filename">railingback.png</key>
+            <key type="filename">railingfrontleft.png</key>
+            <key type="filename">railingfrontright.png</key>
+            <key type="filename">signs.png</key>
+            <key type="filename">ticketbooth.png</key>
+            <key type="filename">tree.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -207,9 +196,8 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">door-active.png</key>
-            <key type="filename">door-hover.png</key>
-            <key type="filename">door.png</key>
+            <key type="filename">hoteldoor-hover.png</key>
+            <key type="filename">hoteldoor.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -218,13 +206,16 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>69,235,137,469</rect>
+                <rect>89,74,178,147</rect>
                 <key>scale9Paddings</key>
-                <rect>69,235,137,469</rect>
+                <rect>89,74,178,147</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">doorframe.png</key>
+            <key type="filename">malldoorleft-hover.png</key>
+            <key type="filename">malldoorleft.png</key>
+            <key type="filename">malldoorright-hover.png</key>
+            <key type="filename">malldoorright.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -233,39 +224,124 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>61,198,121,396</rect>
+                <rect>16,47,32,93</rect>
                 <key>scale9Paddings</key>
-                <rect>61,198,121,396</rect>
+                <rect>16,47,32,93</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">manhole-close0001.png</key>
+            <key type="filename">manhole-close0002.png</key>
+            <key type="filename">manhole-close0003.png</key>
+            <key type="filename">manhole-close0004.png</key>
+            <key type="filename">manhole-close0005.png</key>
+            <key type="filename">manhole-close0006.png</key>
+            <key type="filename">manhole-close0007.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>40,48,79,97</rect>
+                <key>scale9Paddings</key>
+                <rect>40,48,79,97</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">manhole-open0001.png</key>
+            <key type="filename">manhole-open0002.png</key>
+            <key type="filename">manhole-open0003.png</key>
+            <key type="filename">manhole-open0004.png</key>
+            <key type="filename">manhole-open0005.png</key>
+            <key type="filename">manhole-open0006.png</key>
+            <key type="filename">manhole-open0007.png</key>
+            <key type="filename">manhole-open0008.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>40,50,79,99</rect>
+                <key>scale9Paddings</key>
+                <rect>40,50,79,99</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">petdoor-hover.png</key>
+            <key type="filename">petdoor.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>23,35,47,71</rect>
+                <key>scale9Paddings</key>
+                <rect>23,35,47,71</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">pizzadoor-hover.png</key>
+            <key type="filename">pizzadoor.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>27,31,55,61</rect>
+                <key>scale9Paddings</key>
+                <rect>27,31,55,61</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>arrows.png</filename>
-            <filename>benches.png</filename>
+            <filename>arrow.png</filename>
             <filename>bg.png</filename>
-            <filename>bookshelf.png</filename>
-            <filename>cage.png</filename>
-            <filename>door-active.png</filename>
-            <filename>door-hover.png</filename>
-            <filename>door.png</filename>
-            <filename>doorframe.png</filename>
-            <filename>fg.png</filename>
-            <filename>idkwhatthisis.png</filename>
-            <filename>pillar.png</filename>
-            <filename>railings.png</filename>
-            <filename>skelebob.png</filename>
-            <filename>stools.png</filename>
-            <filename>stoolsrow2.png</filename>
-            <filename>support.png</filename>
-            <filename>supports.png</filename>
-            <filename>table1.png</filename>
-            <filename>table2.png</filename>
-            <filename>tables.png</filename>
-            <filename>tablesrow2.png</filename>
-            <filename>woodthing.png</filename>
-            <filename>woodthingback.png</filename>
+            <filename>hoteldoor-hover.png</filename>
+            <filename>hoteldoor.png</filename>
+            <filename>malldoorleft-hover.png</filename>
+            <filename>malldoorleft.png</filename>
+            <filename>malldoorright-hover.png</filename>
+            <filename>malldoorright.png</filename>
+            <filename>manhole-close0001.png</filename>
+            <filename>manhole-close0002.png</filename>
+            <filename>manhole-close0003.png</filename>
+            <filename>manhole-close0004.png</filename>
+            <filename>manhole-close0005.png</filename>
+            <filename>manhole-close0006.png</filename>
+            <filename>manhole-close0007.png</filename>
+            <filename>manhole-open0001.png</filename>
+            <filename>manhole-open0002.png</filename>
+            <filename>manhole-open0003.png</filename>
+            <filename>manhole-open0004.png</filename>
+            <filename>manhole-open0005.png</filename>
+            <filename>manhole-open0006.png</filename>
+            <filename>manhole-open0007.png</filename>
+            <filename>manhole-open0008.png</filename>
+            <filename>petdoor-hover.png</filename>
+            <filename>petdoor.png</filename>
+            <filename>pizzadoor-hover.png</filename>
+            <filename>pizzadoor.png</filename>
+            <filename>puffles.png</filename>
+            <filename>railingback.png</filename>
+            <filename>railingfrontleft.png</filename>
+            <filename>railingfrontright.png</filename>
+            <filename>signs.png</filename>
+            <filename>ticketbooth.png</filename>
+            <filename>tree.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

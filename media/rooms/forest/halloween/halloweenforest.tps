@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../../../../client/client/media/rooms/school/school.json</filename>
+                <filename>../../../../../client/client/media/rooms/forest/forest.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -173,26 +173,69 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">arrows.png</key>
-            <key type="filename">benches.png</key>
+            <key type="filename">anim0001.png</key>
+            <key type="filename">anim0002.png</key>
+            <key type="filename">anim0003.png</key>
+            <key type="filename">anim0004.png</key>
+            <key type="filename">anim0005.png</key>
+            <key type="filename">anim0006.png</key>
+            <key type="filename">anim0007.png</key>
+            <key type="filename">anim0008.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>27,14,53,27</rect>
+                <key>scale9Paddings</key>
+                <rect>27,14,53,27</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">arrow.png</key>
             <key type="filename">bg.png</key>
-            <key type="filename">bookshelf.png</key>
-            <key type="filename">cage.png</key>
-            <key type="filename">fg.png</key>
-            <key type="filename">idkwhatthisis.png</key>
-            <key type="filename">pillar.png</key>
-            <key type="filename">railings.png</key>
-            <key type="filename">skelebob.png</key>
-            <key type="filename">stools.png</key>
-            <key type="filename">stoolsrow2.png</key>
-            <key type="filename">support.png</key>
-            <key type="filename">supports.png</key>
-            <key type="filename">table1.png</key>
-            <key type="filename">table2.png</key>
-            <key type="filename">tables.png</key>
-            <key type="filename">tablesrow2.png</key>
-            <key type="filename">woodthing.png</key>
-            <key type="filename">woodthingback.png</key>
+            <key type="filename">bone.png</key>
+            <key type="filename">bowl.png</key>
+            <key type="filename">chain.png</key>
+            <key type="filename">grass.png</key>
+            <key type="filename">grass10.png</key>
+            <key type="filename">grass11.png</key>
+            <key type="filename">grass12.png</key>
+            <key type="filename">grass13.png</key>
+            <key type="filename">grass14.png</key>
+            <key type="filename">grass15.png</key>
+            <key type="filename">grass16.png</key>
+            <key type="filename">grass17.png</key>
+            <key type="filename">grass18.png</key>
+            <key type="filename">grass19.png</key>
+            <key type="filename">grass2.png</key>
+            <key type="filename">grass20.png</key>
+            <key type="filename">grass21.png</key>
+            <key type="filename">grass22.png</key>
+            <key type="filename">grass23.png</key>
+            <key type="filename">grass24.png</key>
+            <key type="filename">grass25.png</key>
+            <key type="filename">grass26.png</key>
+            <key type="filename">grass3.png</key>
+            <key type="filename">grass4.png</key>
+            <key type="filename">grass5.png</key>
+            <key type="filename">grass6.png</key>
+            <key type="filename">grass7.png</key>
+            <key type="filename">grass8.png</key>
+            <key type="filename">ham.png</key>
+            <key type="filename">logback.png</key>
+            <key type="filename">logfront.png</key>
+            <key type="filename">nail.png</key>
+            <key type="filename">tooth1.png</key>
+            <key type="filename">tooth2.png</key>
+            <key type="filename">tooth3.png</key>
+            <key type="filename">tooth4.png</key>
+            <key type="filename">tooth5.png</key>
+            <key type="filename">tree.png</key>
+            <key type="filename">tree2.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -204,68 +247,61 @@
                 <rect>380,240,760,480</rect>
                 <key>scale9Paddings</key>
                 <rect>380,240,760,480</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">door-active.png</key>
-            <key type="filename">door-hover.png</key>
-            <key type="filename">door.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>69,235,137,469</rect>
-                <key>scale9Paddings</key>
-                <rect>69,235,137,469</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">doorframe.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>61,198,121,396</rect>
-                <key>scale9Paddings</key>
-                <rect>61,198,121,396</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>arrows.png</filename>
-            <filename>benches.png</filename>
+            <filename>anim0001.png</filename>
+            <filename>anim0002.png</filename>
+            <filename>anim0003.png</filename>
+            <filename>anim0004.png</filename>
+            <filename>anim0005.png</filename>
+            <filename>anim0006.png</filename>
+            <filename>anim0007.png</filename>
+            <filename>anim0008.png</filename>
+            <filename>arrow.png</filename>
             <filename>bg.png</filename>
-            <filename>bookshelf.png</filename>
-            <filename>cage.png</filename>
-            <filename>door-active.png</filename>
-            <filename>door-hover.png</filename>
-            <filename>door.png</filename>
-            <filename>doorframe.png</filename>
-            <filename>fg.png</filename>
-            <filename>idkwhatthisis.png</filename>
-            <filename>pillar.png</filename>
-            <filename>railings.png</filename>
-            <filename>skelebob.png</filename>
-            <filename>stools.png</filename>
-            <filename>stoolsrow2.png</filename>
-            <filename>support.png</filename>
-            <filename>supports.png</filename>
-            <filename>table1.png</filename>
-            <filename>table2.png</filename>
-            <filename>tables.png</filename>
-            <filename>tablesrow2.png</filename>
-            <filename>woodthing.png</filename>
-            <filename>woodthingback.png</filename>
+            <filename>bone.png</filename>
+            <filename>bowl.png</filename>
+            <filename>chain.png</filename>
+            <filename>grass.png</filename>
+            <filename>grass10.png</filename>
+            <filename>grass11.png</filename>
+            <filename>grass12.png</filename>
+            <filename>grass13.png</filename>
+            <filename>grass14.png</filename>
+            <filename>grass15.png</filename>
+            <filename>grass16.png</filename>
+            <filename>grass17.png</filename>
+            <filename>grass18.png</filename>
+            <filename>grass19.png</filename>
+            <filename>grass2.png</filename>
+            <filename>grass20.png</filename>
+            <filename>grass21.png</filename>
+            <filename>grass22.png</filename>
+            <filename>grass23.png</filename>
+            <filename>grass24.png</filename>
+            <filename>grass25.png</filename>
+            <filename>grass26.png</filename>
+            <filename>grass3.png</filename>
+            <filename>grass4.png</filename>
+            <filename>grass5.png</filename>
+            <filename>grass6.png</filename>
+            <filename>grass7.png</filename>
+            <filename>grass8.png</filename>
+            <filename>ham.png</filename>
+            <filename>logback.png</filename>
+            <filename>logfront.png</filename>
+            <filename>nail.png</filename>
+            <filename>tooth1.png</filename>
+            <filename>tooth2.png</filename>
+            <filename>tooth3.png</filename>
+            <filename>tooth4.png</filename>
+            <filename>tooth5.png</filename>
+            <filename>tree.png</filename>
+            <filename>tree2.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
