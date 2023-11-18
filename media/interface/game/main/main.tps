@@ -2870,6 +2870,21 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
+            <key type="filename">main/waddle.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>116,98,232,196</rect>
+                <key>scale9Paddings</key>
+                <rect>116,98,232,196</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">main/wave.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
