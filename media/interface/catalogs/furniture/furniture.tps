@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename></filename>
+                <filename>../../../../../client/client/media/interface/catalogs/furniture/furniturecatalog.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -172,9 +172,91 @@
             <false/>
         </struct>
         <key>individualSpriteSettings</key>
-        <map type="IndividualSpriteSettingsMap"/>
+        <map type="IndividualSpriteSettingsMap">
+            <key type="filename">back.png</key>
+            <key type="filename">front.png</key>
+            <key type="filename">instructions.png</key>
+            <key type="filename">pages.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>380,240,760,480</rect>
+                <key>scale9Paddings</key>
+                <rect>380,240,760,480</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">middle.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>24,227,48,453</rect>
+                <key>scale9Paddings</key>
+                <rect>24,227,48,453</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">nextPage-btn-active.png</key>
+            <key type="filename">nextPage-btn-hover.png</key>
+            <key type="filename">nextPage-btn.png</key>
+            <key type="filename">prevPage-btn-active.png</key>
+            <key type="filename">prevPage-btn-hover.png</key>
+            <key type="filename">prevPage-btn.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>33,56,65,111</rect>
+                <key>scale9Paddings</key>
+                <rect>33,56,65,111</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">nineslice.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>66,66,132,132</rect>
+                <key>scale9Paddings</key>
+                <rect>66,66,132,132</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+        </map>
         <key>fileList</key>
-        <array/>
+        <array>
+            <filename>back.png</filename>
+            <filename>front.png</filename>
+            <filename>instructions.png</filename>
+            <filename>middle.png</filename>
+            <filename>nineslice.png</filename>
+            <filename>pages.png</filename>
+            <filename>nextPage-btn-active.png</filename>
+            <filename>nextPage-btn-hover.png</filename>
+            <filename>nextPage-btn.png</filename>
+            <filename>prevPage-btn-active.png</filename>
+            <filename>prevPage-btn-hover.png</filename>
+            <filename>prevPage-btn.png</filename>
+        </array>
         <key>ignoreFileList</key>
         <array/>
         <key>replaceList</key>
