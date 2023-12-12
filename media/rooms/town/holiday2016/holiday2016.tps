@@ -124,7 +124,7 @@
             <key>json</key>
             <struct type="DataFile">
                 <key>name</key>
-                <filename>../../../../../../client/client/media/igloos/buildings/sprites/icecastle/icecastle.json</filename>
+                <filename>../../../../../client/client/media/rooms/town/parties/townHoliday16.json</filename>
             </struct>
         </map>
         <key>multiPack</key>
@@ -173,23 +173,16 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">bg-lower.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>spriteScale</key>
-                <double>1</double>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>49,6,99,13</rect>
-                <key>scale9Paddings</key>
-                <rect>49,6,99,13</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">bg-upper.png</key>
+            <key type="filename">bauble.png</key>
+            <key type="filename">bg.png</key>
             <key type="filename">fg.png</key>
+            <key type="filename">light1.png</key>
+            <key type="filename">light2.png</key>
+            <key type="filename">light3.png</key>
+            <key type="filename">light4.png</key>
+            <key type="filename">lights.png</key>
+            <key type="filename">snow.png</key>
+            <key type="filename">thingy.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -204,9 +197,35 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">door-active.png</key>
-            <key type="filename">door-hover.png</key>
-            <key type="filename">door.png</key>
+            <key type="filename">cfcanim0001.png</key>
+            <key type="filename">cfcanim0002.png</key>
+            <key type="filename">cfcanim0003.png</key>
+            <key type="filename">cfcanim0004.png</key>
+            <key type="filename">cfcanim0005.png</key>
+            <key type="filename">cfcanim0006.png</key>
+            <key type="filename">cfcanim0007.png</key>
+            <key type="filename">cfcanim0008.png</key>
+            <key type="filename">cfcanim0009.png</key>
+            <key type="filename">cfcanim0010.png</key>
+            <key type="filename">cfcanim0011.png</key>
+            <key type="filename">cfcanim0012.png</key>
+            <key type="filename">cfcanim0013.png</key>
+            <key type="filename">cfcanim0014.png</key>
+            <key type="filename">cfcanim0015.png</key>
+            <key type="filename">cfcanim0016.png</key>
+            <key type="filename">cfcanim0017.png</key>
+            <key type="filename">cfcanim0018.png</key>
+            <key type="filename">cfcanim0019.png</key>
+            <key type="filename">cfcanim0020.png</key>
+            <key type="filename">cfcanim0021.png</key>
+            <key type="filename">cfcanim0022.png</key>
+            <key type="filename">cfcanim0023.png</key>
+            <key type="filename">cfcanim0024.png</key>
+            <key type="filename">cfcanim0025.png</key>
+            <key type="filename">cfcanim0026.png</key>
+            <key type="filename">cfcanim0027.png</key>
+            <key type="filename">cfcanim0028.png</key>
+            <key type="filename">cfcanim0029.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -215,21 +234,114 @@
                 <key>scale9Enabled</key>
                 <false/>
                 <key>scale9Borders</key>
-                <rect>48,49,95,97</rect>
+                <rect>35,55,69,111</rect>
                 <key>scale9Paddings</key>
-                <rect>48,49,95,97</rect>
+                <rect>35,55,69,111</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">clothesdoor-active.png</key>
+            <key type="filename">clothesdoor-hover.png</key>
+            <key type="filename">clothesdoor.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>17,37,33,75</rect>
+                <key>scale9Paddings</key>
+                <rect>17,37,33,75</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">coffeedoor-active.png</key>
+            <key type="filename">coffeedoor-hover.png</key>
+            <key type="filename">coffeedoor.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>46,53,91,106</rect>
+                <key>scale9Paddings</key>
+                <rect>46,53,91,106</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">danceclubdoor-active.png</key>
+            <key type="filename">danceclubdoor-hover.png</key>
+            <key type="filename">danceclubdoor.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>spriteScale</key>
+                <double>1</double>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>32,42,65,83</rect>
+                <key>scale9Paddings</key>
+                <rect>32,42,65,83</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>bg-lower.png</filename>
-            <filename>bg-upper.png</filename>
-            <filename>door-active.png</filename>
-            <filename>door-hover.png</filename>
-            <filename>door.png</filename>
+            <filename>bauble.png</filename>
+            <filename>bg.png</filename>
+            <filename>cfcanim0001.png</filename>
+            <filename>cfcanim0002.png</filename>
+            <filename>cfcanim0003.png</filename>
+            <filename>cfcanim0004.png</filename>
+            <filename>cfcanim0005.png</filename>
+            <filename>cfcanim0006.png</filename>
+            <filename>cfcanim0007.png</filename>
+            <filename>cfcanim0008.png</filename>
+            <filename>cfcanim0009.png</filename>
+            <filename>cfcanim0010.png</filename>
+            <filename>cfcanim0011.png</filename>
+            <filename>cfcanim0012.png</filename>
+            <filename>cfcanim0013.png</filename>
+            <filename>cfcanim0014.png</filename>
+            <filename>cfcanim0015.png</filename>
+            <filename>cfcanim0016.png</filename>
+            <filename>cfcanim0017.png</filename>
+            <filename>cfcanim0018.png</filename>
+            <filename>cfcanim0019.png</filename>
+            <filename>cfcanim0020.png</filename>
+            <filename>cfcanim0021.png</filename>
+            <filename>cfcanim0022.png</filename>
+            <filename>cfcanim0023.png</filename>
+            <filename>cfcanim0024.png</filename>
+            <filename>cfcanim0025.png</filename>
+            <filename>cfcanim0026.png</filename>
+            <filename>cfcanim0027.png</filename>
+            <filename>cfcanim0028.png</filename>
+            <filename>cfcanim0029.png</filename>
+            <filename>clothesdoor-active.png</filename>
+            <filename>clothesdoor-hover.png</filename>
+            <filename>clothesdoor.png</filename>
+            <filename>coffeedoor-active.png</filename>
+            <filename>coffeedoor-hover.png</filename>
+            <filename>coffeedoor.png</filename>
+            <filename>danceclubdoor-active.png</filename>
+            <filename>danceclubdoor-hover.png</filename>
+            <filename>danceclubdoor.png</filename>
             <filename>fg.png</filename>
+            <filename>light1.png</filename>
+            <filename>light2.png</filename>
+            <filename>light3.png</filename>
+            <filename>light4.png</filename>
+            <filename>lights.png</filename>
+            <filename>snow.png</filename>
+            <filename>thingy.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
